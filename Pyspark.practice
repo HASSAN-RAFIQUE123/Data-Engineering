@@ -1,0 +1,790 @@
+abc@7ec44095be38:~/workspace$ ls
+demo.py  departments.csv  employees.csv  hdfs_commands.txt  README.md  requirements.txt  Spark_Interview_Questions.md
+abc@7ec44095be38:~/workspace$ hdfs dfs -put /input_data
+put: `.': No such file or directory: `hdfs://localhost/user/abc'
+abc@7ec44095be38:~/workspace$ hdfs dfs -ls
+ls: `.': No such file or directory
+abc@7ec44095be38:~/workspace$ hdfs dfs -mkdir /input_data
+abc@7ec44095be38:~/workspace$ hdfs dfs -put departments.csv /input_data
+2023-05-10 13:05:02,738 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false
+abc@7ec44095be38:~/workspace$ hdfs dfs -put employees.csv /input_data
+2023-05-10 13:05:18,974 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false
+abc@7ec44095be38:~/workspace$ hdfs dfs -ls /input_data
+Found 2 items
+-rw-r--r--   1 abc supergroup        709 2023-05-10 13:05 /input_data/departments.csv
+-rw-r--r--   1 abc supergroup       3779 2023-05-10 13:05 /input_data/employees.csv
+abc@7ec44095be38:~/workspace$ hdfs dfs -ls / input_data
+Found 1 items
+drwxr-xr-x   - abc supergroup          0 2023-05-10 13:05 /input_data
+ls: `input_data': No such file or directory
+abc@7ec44095be38:~/workspace$ hdfs dfs -ls /input_data
+Found 2 items
+-rw-r--r--   1 abc supergroup        709 2023-05-10 13:05 /input_data/departments.csv
+-rw-r--r--   1 abc supergroup       3779 2023-05-10 13:05 /input_data/employees.csv
+abc@7ec44095be38:~/workspace$ hdfs --version
+/usr/local/hadoop/libexec/hadoop-functions.sh: line 2366: HDFS_--VERSION_USER: invalid variable name
+ERROR: --version is not COMMAND nor fully qualified CLASSNAME.
+Usage: hdfs [OPTIONS] SUBCOMMAND [SUBCOMMAND OPTIONS]
+
+  OPTIONS is none or any of:
+
+--buildpaths                       attempt to add class files from build tree
+--config dir                       Hadoop config directory
+--daemon (start|status|stop)       operate on a daemon
+--debug                            turn on shell script debug mode
+--help                             usage information
+--hostnames list[,of,host,names]   hosts to use in worker mode
+--hosts filename                   list of hosts to use in worker mode
+--loglevel level                   set the log4j level for this command
+--workers                          turn on worker mode
+
+  SUBCOMMAND is one of:
+
+
+    Admin Commands:
+
+cacheadmin           configure the HDFS cache
+crypto               configure HDFS encryption zones
+debug                run a Debug Admin to execute HDFS debug commands
+dfsadmin             run a DFS admin client
+dfsrouteradmin       manage Router-based federation
+ec                   run a HDFS ErasureCoding CLI
+fsck                 run a DFS filesystem checking utility
+haadmin              run a DFS HA admin client
+jmxget               get JMX exported values from NameNode or DataNode.
+oev                  apply the offline edits viewer to an edits file
+oiv                  apply the offline fsimage viewer to an fsimage
+oiv_legacy           apply the offline fsimage viewer to a legacy fsimage
+storagepolicies      list/get/set/satisfyStoragePolicy block storage policies
+
+    Client Commands:
+
+classpath            prints the class path needed to get the hadoop jar and the required libraries
+dfs                  run a filesystem command on the file system
+envvars              display computed Hadoop environment variables
+fetchdt              fetch a delegation token from the NameNode
+getconf              get config values from configuration
+groups               get the groups which users belong to
+lsSnapshottableDir   list all snapshottable dirs owned by the current user
+snapshotDiff         diff two snapshots of a directory or diff the current directory contents with a snapshot
+version              print the version
+
+    Daemon Commands:
+
+balancer             run a cluster balancing utility
+datanode             run a DFS datanode
+dfsrouter            run the DFS router
+diskbalancer         Distributes data evenly among disks on a given node
+httpfs               run HttpFS server, the HDFS HTTP Gateway
+journalnode          run the DFS journalnode
+mover                run a utility to move block replicas across storage types
+namenode             run the DFS namenode
+nfs3                 run an NFS version 3 gateway
+portmap              run a portmap service
+secondarynamenode    run the DFS secondary namenode
+sps                  run external storagepolicysatisfier
+zkfc                 run the ZK Failover Controller daemon
+
+SUBCOMMAND may print help when invoked w/o parameters or with -h.
+abc@7ec44095be38:~/workspace$ hadoop --version
+/usr/local/hadoop/libexec/hadoop-functions.sh: line 2366: HADOOP_--VERSION_USER: invalid variable name
+ERROR: --version is not COMMAND nor fully qualified CLASSNAME.
+Usage: hadoop [OPTIONS] SUBCOMMAND [SUBCOMMAND OPTIONS]
+ or    hadoop [OPTIONS] CLASSNAME [CLASSNAME OPTIONS]
+  where CLASSNAME is a user-provided Java class
+
+  OPTIONS is none or any of:
+
+buildpaths                       attempt to add class files from build tree
+--config dir                     Hadoop config directory
+--debug                          turn on shell script debug mode
+--help                           usage information
+hostnames list[,of,host,names]   hosts to use in slave mode
+hosts filename                   list of hosts to use in slave mode
+loglevel level                   set the log4j level for this command
+workers                          turn on worker mode
+
+  SUBCOMMAND is one of:
+
+
+    Admin Commands:
+
+daemonlog     get/set the log level for each daemon
+
+    Client Commands:
+
+archive       create a Hadoop archive
+checknative   check native Hadoop and compression libraries availability
+classpath     prints the class path needed to get the Hadoop jar and the required libraries
+conftest      validate configuration XML files
+credential    interact with credential providers
+distch        distributed metadata changer
+distcp        copy file or directories recursively
+dtutil        operations related to delegation tokens
+envvars       display computed Hadoop environment variables
+fs            run a generic filesystem user client
+gridmix       submit a mix of synthetic job, modeling a profiled from production load
+jar <jar>     run a jar file. NOTE: please use "yarn jar" to launch YARN applications, not this command.
+jnipath       prints the java.library.path
+kdiag         Diagnose Kerberos Problems
+kerbname      show auth_to_local principal conversion
+key           manage keys via the KeyProvider
+rumenfolder   scale a rumen input trace
+rumentrace    convert logs into a rumen trace
+s3guard       manage metadata on S3
+trace         view and modify Hadoop tracing settings
+version       print the version
+
+    Daemon Commands:
+
+kms           run KMS, the Key Management Server
+
+SUBCOMMAND may print help when invoked w/o parameters or with -h.
+abc@7ec44095be38:~/workspace$ pyspark
+Python 3.9.13 (main, Oct 13 2022, 21:15:33) 
+[GCC 11.2.0] :: Anaconda, Inc. on linux
+Type "help", "copyright", "credits" or "license" for more information.
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+23/05/10 13:17:22 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+23/05/10 13:17:23 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+Welcome to
+      ____              __
+     / __/__  ___ _____/ /__
+    _\ \/ _ \/ _ `/ __/  '_/
+   /__ / .__/\_,_/_/ /_/\_\   version 3.2.1
+      /_/
+
+Using Python version 3.9.13 (main, Oct 13 2022 21:15:33)
+Spark context Web UI available at http://7ec44095be38:4041
+Spark context available as 'sc' (master = local[*], app id = local-1683704843414).
+SparkSession available as 'spark'.
+>>> empdf=spark.read.option("header",True).option("infreSchema",True).csv("/input_data/employees.csv")
+>>> empdf.show()                                                                
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|EMPLOYEE_ID|FIRST_NAME|LAST_NAME|   EMAIL|PHONE_NUMBER|HIRE_DATE|    JOB_ID|SALARY|COMMISSION_PCT|MANAGER_ID|DEPARTMENT_ID|
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|        198|    Donald| OConnell|DOCONNEL|650.507.9833|21-JUN-07|  SH_CLERK|  2600|            - |       124|           50|
+|        199|   Douglas|    Grant|  DGRANT|650.507.9844|13-JAN-08|  SH_CLERK|  2600|            - |       124|           50|
+|        200|  Jennifer|   Whalen| JWHALEN|515.123.4444|17-SEP-03|   AD_ASST|  4400|            - |       101|           10|
+|        201|   Michael|Hartstein|MHARTSTE|515.123.5555|17-FEB-04|    MK_MAN| 13000|            - |       100|           20|
+|        202|       Pat|      Fay|    PFAY|603.123.6666|17-AUG-05|    MK_REP|  6000|            - |       201|           20|
+|        203|     Susan|   Mavris| SMAVRIS|515.123.7777|07-JUN-02|    HR_REP|  6500|            - |       101|           40|
+|        204|   Hermann|     Baer|   HBAER|515.123.8888|07-JUN-02|    PR_REP| 10000|            - |       101|           70|
+|        205|   Shelley|  Higgins|SHIGGINS|515.123.8080|07-JUN-02|    AC_MGR| 12008|            - |       101|          110|
+|        206|   William|    Gietz|  WGIETZ|515.123.8181|07-JUN-02|AC_ACCOUNT|  8300|            - |       205|          110|
+|        100|    Steven|     King|   SKING|515.123.4567|17-JUN-03|   AD_PRES| 24000|            - |        - |           90|
+|        101|     Neena|  Kochhar|NKOCHHAR|515.123.4568|21-SEP-05|     AD_VP| 17000|            - |       100|           90|
+|        102|       Lex|  De Haan| LDEHAAN|515.123.4569|13-JAN-01|     AD_VP| 17000|            - |       100|           90|
+|        103| Alexander|   Hunold| AHUNOLD|590.423.4567|03-JAN-06|   IT_PROG|  9000|            - |       102|           60|
+|        104|     Bruce|    Ernst|  BERNST|590.423.4568|21-MAY-07|   IT_PROG|  6000|            - |       103|           60|
+|        105|     David|   Austin| DAUSTIN|590.423.4569|25-JUN-05|   IT_PROG|  4800|            - |       103|           60|
+|        106|     Valli|Pataballa|VPATABAL|590.423.4560|05-FEB-06|   IT_PROG|  4800|            - |       103|           60|
+|        107|     Diana|  Lorentz|DLORENTZ|590.423.5567|07-FEB-07|   IT_PROG|  4200|            - |       103|           60|
+|        108|     Nancy|Greenberg|NGREENBE|515.124.4569|17-AUG-02|    FI_MGR| 12008|            - |       101|          100|
+|        109|    Daniel|   Faviet| DFAVIET|515.124.4169|16-AUG-02|FI_ACCOUNT|  9000|            - |       108|          100|
+|        110|      John|     Chen|   JCHEN|515.124.4269|28-SEP-05|FI_ACCOUNT|  8200|            - |       108|          100|
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+only showing top 20 rows
+
+>>> empdf.drop("COMMISSION_PCT")
+DataFrame[EMPLOYEE_ID: string, FIRST_NAME: string, LAST_NAME: string, EMAIL: string, PHONE_NUMBER: string, HIRE_DATE: string, JOB_ID: string, SALARY: string, MANAGER_ID: string, DEPARTMENT_ID: string]
+>>> empdf.select("Salary">5000).show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: '>' not supported between instances of 'str' and 'int'
+>>> empdf.select(col("Salary">5000)).show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'col' is not defined
+>>> empdf.select(empdf.salary>5000)).show()
+  File "<stdin>", line 1
+    empdf.select(empdf.salary>5000)).show()
+                                   ^
+SyntaxError: unmatched ')'
+>>> empdf.select(empdf.salary>5000).show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/dataframe.py", line 1659, in __getattr__
+    raise AttributeError(
+AttributeError: 'DataFrame' object has no attribute 'salary'
+>>> empdf.select(col("salary").alias("emp_salary")).show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'col' is not defined
+>>> from pyspark.sql.functions import col
+>>> empdf.select(col("salary").alias("emp_salary")).show()
++----------+
+|emp_salary|
++----------+
+|      2600|
+|      2600|
+|      4400|
+|     13000|
+|      6000|
+|      6500|
+|     10000|
+|     12008|
+|      8300|
+|     24000|
+|     17000|
+|     17000|
+|      9000|
+|      6000|
+|      4800|
+|      4800|
+|      4200|
+|     12008|
+|      9000|
+|      8200|
++----------+
+only showing top 20 rows
+
+>>> empdf.filter(col("emp_salary")>5000).show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/dataframe.py", line 1733, in filter
+    jdf = self._jdf.filter(condition._jc)
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1321, in __call__
+  File "/usr/local/spark/python/pyspark/sql/utils.py", line 117, in deco
+    raise converted from None
+pyspark.sql.utils.AnalysisException: cannot resolve 'emp_salary' given input columns: [COMMISSION_PCT, DEPARTMENT_ID, EMAIL, EMPLOYEE_ID, FIRST_NAME, HIRE_DATE, JOB_ID, LAST_NAME, MANAGER_ID, PHONE_NUMBER, SALARY];
+'Filter ('emp_salary > 5000)
++- Relation [EMPLOYEE_ID#16,FIRST_NAME#17,LAST_NAME#18,EMAIL#19,PHONE_NUMBER#20,HIRE_DATE#21,JOB_ID#22,SALARY#23,COMMISSION_PCT#24,MANAGER_ID#25,DEPARTMENT_ID#26] csv
+
+>>> empdf.filter(col("emp_salary")>5000)).show()
+  File "<stdin>", line 1
+    empdf.filter(col("emp_salary")>5000)).show()
+                                        ^
+SyntaxError: unmatched ')'
+>>> empdf.filter(col("salary")>5000)).show()
+  File "<stdin>", line 1
+    empdf.filter(col("salary")>5000)).show()
+                                    ^
+SyntaxError: unmatched ')'
+>>> empdf.filter((col("salary") > 5000)).show()
++-----------+-----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|EMPLOYEE_ID| FIRST_NAME|LAST_NAME|   EMAIL|PHONE_NUMBER|HIRE_DATE|    JOB_ID|SALARY|COMMISSION_PCT|MANAGER_ID|DEPARTMENT_ID|
++-----------+-----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|        201|    Michael|Hartstein|MHARTSTE|515.123.5555|17-FEB-04|    MK_MAN| 13000|            - |       100|           20|
+|        202|        Pat|      Fay|    PFAY|603.123.6666|17-AUG-05|    MK_REP|  6000|            - |       201|           20|
+|        203|      Susan|   Mavris| SMAVRIS|515.123.7777|07-JUN-02|    HR_REP|  6500|            - |       101|           40|
+|        204|    Hermann|     Baer|   HBAER|515.123.8888|07-JUN-02|    PR_REP| 10000|            - |       101|           70|
+|        205|    Shelley|  Higgins|SHIGGINS|515.123.8080|07-JUN-02|    AC_MGR| 12008|            - |       101|          110|
+|        206|    William|    Gietz|  WGIETZ|515.123.8181|07-JUN-02|AC_ACCOUNT|  8300|            - |       205|          110|
+|        100|     Steven|     King|   SKING|515.123.4567|17-JUN-03|   AD_PRES| 24000|            - |        - |           90|
+|        101|      Neena|  Kochhar|NKOCHHAR|515.123.4568|21-SEP-05|     AD_VP| 17000|            - |       100|           90|
+|        102|        Lex|  De Haan| LDEHAAN|515.123.4569|13-JAN-01|     AD_VP| 17000|            - |       100|           90|
+|        103|  Alexander|   Hunold| AHUNOLD|590.423.4567|03-JAN-06|   IT_PROG|  9000|            - |       102|           60|
+|        104|      Bruce|    Ernst|  BERNST|590.423.4568|21-MAY-07|   IT_PROG|  6000|            - |       103|           60|
+|        108|      Nancy|Greenberg|NGREENBE|515.124.4569|17-AUG-02|    FI_MGR| 12008|            - |       101|          100|
+|        109|     Daniel|   Faviet| DFAVIET|515.124.4169|16-AUG-02|FI_ACCOUNT|  9000|            - |       108|          100|
+|        110|       John|     Chen|   JCHEN|515.124.4269|28-SEP-05|FI_ACCOUNT|  8200|            - |       108|          100|
+|        111|     Ismael|  Sciarra|ISCIARRA|515.124.4369|30-SEP-05|FI_ACCOUNT|  7700|            - |       108|          100|
+|        112|Jose Manuel|    Urman| JMURMAN|515.124.4469|07-MAR-06|FI_ACCOUNT|  7800|            - |       108|          100|
+|        113|       Luis|     Popp|   LPOPP|515.124.4567|07-DEC-07|FI_ACCOUNT|  6900|            - |       108|          100|
+|        114|        Den| Raphaely|DRAPHEAL|515.127.4561|07-DEC-02|    PU_MAN| 11000|            - |       100|           30|
+|        120|    Matthew|    Weiss|  MWEISS|650.123.1234|18-JUL-04|    ST_MAN|  8000|            - |       100|           50|
+|        121|       Adam|    Fripp|  AFRIPP|650.123.2234|10-APR-05|    ST_MAN|  8200|            - |       100|           50|
++-----------+-----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+only showing top 20 rows
+
+>>> empdf.dropDuplicates()
+DataFrame[EMPLOYEE_ID: string, FIRST_NAME: string, LAST_NAME: string, EMAIL: string, PHONE_NUMBER: string, HIRE_DATE: string, JOB_ID: string, SALARY: string, COMMISSION_PCT: string, MANAGER_ID: string, DEPARTMENT_ID: string]
+>>> empdf.dropDuplicates().show()
++-----------+-----------+-----------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|EMPLOYEE_ID| FIRST_NAME|  LAST_NAME|   EMAIL|PHONE_NUMBER|HIRE_DATE|    JOB_ID|SALARY|COMMISSION_PCT|MANAGER_ID|DEPARTMENT_ID|
++-----------+-----------+-----------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|        126|      Irene|Mikkilineni|IMIKKILI|650.124.1224|28-SEP-06|  ST_CLERK|  2700|            - |       120|           50|
+|        138|    Stephen|     Stiles| SSTILES|650.121.2034|26-OCT-05|  ST_CLERK|  3200|            - |       123|           50|
+|        123|     Shanta|    Vollman|SVOLLMAN|650.123.4234|10-OCT-05|    ST_MAN|  6500|            - |       100|           50|
+|        104|      Bruce|      Ernst|  BERNST|590.423.4568|21-MAY-07|   IT_PROG|  6000|            - |       103|           60|
+|        134|    Michael|     Rogers| MROGERS|650.127.1834|26-AUG-06|  ST_CLERK|  2900|            - |       122|           50|
+|        105|      David|     Austin| DAUSTIN|590.423.4569|25-JUN-05|   IT_PROG|  4800|            - |       103|           60|
+|        108|      Nancy|  Greenberg|NGREENBE|515.124.4569|17-AUG-02|    FI_MGR| 12008|            - |       101|          100|
+|        203|      Susan|     Mavris| SMAVRIS|515.123.7777|07-JUN-02|    HR_REP|  6500|            - |       101|           40|
+|        113|       Luis|       Popp|   LPOPP|515.124.4567|07-DEC-07|FI_ACCOUNT|  6900|            - |       108|          100|
+|        131|      James|     Marlow| JAMRLOW|650.124.7234|16-FEB-05|  ST_CLERK|  2500|            - |       121|           50|
+|        125|      Julia|      Nayer|  JNAYER|650.124.1214|16-JUL-05|  ST_CLERK|  3200|            - |       120|           50|
+|        112|Jose Manuel|      Urman| JMURMAN|515.124.4469|07-MAR-06|FI_ACCOUNT|  7800|            - |       108|          100|
+|        204|    Hermann|       Baer|   HBAER|515.123.8888|07-JUN-02|    PR_REP| 10000|            - |       101|           70|
+|        120|    Matthew|      Weiss|  MWEISS|650.123.1234|18-JUL-04|    ST_MAN|  8000|            - |       100|           50|
+|        201|    Michael|  Hartstein|MHARTSTE|515.123.5555|17-FEB-04|    MK_MAN| 13000|            - |       100|           20|
+|        107|      Diana|    Lorentz|DLORENTZ|590.423.5567|07-FEB-07|   IT_PROG|  4200|            - |       103|           60|
+|        132|         TJ|      Olson| TJOLSON|650.124.8234|10-APR-07|  ST_CLERK|  2100|            - |       121|           50|
+|        130|      Mozhe|   Atkinson|MATKINSO|650.124.6234|30-OCT-05|  ST_CLERK|  2800|            - |       121|           50|
+|        119|      Karen| Colmenares|KCOLMENA|515.127.4566|10-AUG-07|  PU_CLERK|  2500|            - |       114|           30|
+|        133|      Jason|     Mallin| JMALLIN|650.127.1934|14-JUN-04|  ST_CLERK|  3300|            - |       122|           50|
++-----------+-----------+-----------+--------+------------+---------+----------+------+--------------+----------+-------------+
+only showing top 20 rows
+
+>>> empdf.dropDuplicates("Department_id").show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/dataframe.py", line 1986, in dropDuplicates
+    raise TypeError("Parameter 'subset' must be a list of columns")
+TypeError: Parameter 'subset' must be a list of columns
+>>> empdf.dropDuplicates("DEPARTMENTS_ID").show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/dataframe.py", line 1986, in dropDuplicates
+    raise TypeError("Parameter 'subset' must be a list of columns")
+TypeError: Parameter 'subset' must be a list of columns
+>>> empdf.dropDuplicates("DEPARTMENTS_ID").select("DEPARTMENTS_ID").show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/dataframe.py", line 1986, in dropDuplicates
+    raise TypeError("Parameter 'subset' must be a list of columns")
+TypeError: Parameter 'subset' must be a list of columns
+>>> empdf.dropDuplicates(["DEPARTMENTS_ID"]).select("DEPARTMENTS_ID").show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/dataframe.py", line 1991, in dropDuplicates
+    jdf = self._jdf.dropDuplicates(self._jseq(subset))
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1321, in __call__
+  File "/usr/local/spark/python/pyspark/sql/utils.py", line 117, in deco
+    raise converted from None
+pyspark.sql.utils.AnalysisException: Cannot resolve column name "DEPARTMENTS_ID" among (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, EMAIL, PHONE_NUMBER, HIRE_DATE, JOB_ID, SALARY, COMMISSION_PCT, MANAGER_ID, DEPARTMENT_ID)
+>>> empdf.dropDuplicates(["DEPARTMENT_ID"]).select("DEPARTMENT_ID").show()
++-------------+
+|DEPARTMENT_ID|
++-------------+
+|           30|
+|          110|
+|          100|
+|           70|
+|           90|
+|           60|
+|           40|
+|           20|
+|           10|
+|           50|
++-------------+
+
+>>> from pyspark.sql.functions import *
+>>> empdf.select(count("*")).show()
++--------+
+|count(1)|
++--------+
+|      50|
++--------+
+
+>>> empdf.select(max("salary")).show()
++-----------+
+|max(salary)|
++-----------+
+|       9000|
++-----------+
+
+>>> empdf.select(max("salary")).alias("max_salary").show()
++-----------+
+|max(salary)|
++-----------+
+|       9000|
++-----------+
+
+>>> empdf.select(min("salary").alias("max_salary")).show()
++----------+
+|max_salary|
++----------+
+|     10000|
++----------+
+
+>>> empdf.select(min("salary").alias("min_salary")).show()
++----------+
+|min_salary|
++----------+
+|     10000|
++----------+
+
+>>> empdf.select(avg("salary").alias("avg_salary")).show()
++----------+
+|avg_salary|
++----------+
+|   6182.32|
++----------+
+
+>>> empdf.select("employee_id","salary").orderBy("salary").show()
++-----------+------+
+|employee_id|salary|
++-----------+------+
+|        204| 10000|
+|        114| 11000|
+|        205| 12008|
+|        108| 12008|
+|        201| 13000|
+|        102| 17000|
+|        101| 17000|
+|        132|  2100|
+|        128|  2200|
+|        136|  2200|
+|        135|  2400|
+|        127|  2400|
+|        100| 24000|
+|        119|  2500|
+|        131|  2500|
+|        140|  2500|
+|        118|  2600|
+|        198|  2600|
+|        199|  2600|
+|        126|  2700|
++-----------+------+
+only showing top 20 rows
+
+>>> empdf.select("employee_id","salary").orderBy(col("salary").desc()).show()
++-----------+------+
+|employee_id|salary|
++-----------+------+
+|        103|  9000|
+|        109|  9000|
+|        206|  8300|
+|        110|  8200|
+|        121|  8200|
+|        120|  8000|
+|        122|  7900|
+|        112|  7800|
+|        111|  7700|
+|        113|  6900|
+|        123|  6500|
+|        203|  6500|
+|        104|  6000|
+|        202|  6000|
+|        124|  5800|
+|        105|  4800|
+|        106|  4800|
+|        200|  4400|
+|        107|  4200|
+|        137|  3600|
++-----------+------+
+only showing top 20 rows
+
+>>> empdf.groupBy("department_id").sum().show()
++-------------+
+|department_id|
++-------------+
+|           30|
+|          110|
+|          100|
+|           70|
+|           90|
+|           60|
+|           40|
+|           20|
+|           10|
+|           50|
++-------------+
+
+>>> empdf.groupBy("department_id").sum("salary").show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/group.py", line 41, in _api
+    jdf = getattr(self._jgd, name)(_to_seq(self.sql_ctx._sc, cols))
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1321, in __call__
+  File "/usr/local/spark/python/pyspark/sql/utils.py", line 117, in deco
+    raise converted from None
+pyspark.sql.utils.AnalysisException: "salary" is not a numeric column. Aggregation function can only be applied on a numeric column.
+>>> empdf.groupBy("department_id").sum("SALARY").show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/group.py", line 41, in _api
+    jdf = getattr(self._jgd, name)(_to_seq(self.sql_ctx._sc, cols))
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1321, in __call__
+  File "/usr/local/spark/python/pyspark/sql/utils.py", line 117, in deco
+    raise converted from None
+pyspark.sql.utils.AnalysisException: "SALARY" is not a numeric column. Aggregation function can only be applied on a numeric column.
+>>> empdf.show()
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|EMPLOYEE_ID|FIRST_NAME|LAST_NAME|   EMAIL|PHONE_NUMBER|HIRE_DATE|    JOB_ID|SALARY|COMMISSION_PCT|MANAGER_ID|DEPARTMENT_ID|
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|        198|    Donald| OConnell|DOCONNEL|650.507.9833|21-JUN-07|  SH_CLERK|  2600|            - |       124|           50|
+|        199|   Douglas|    Grant|  DGRANT|650.507.9844|13-JAN-08|  SH_CLERK|  2600|            - |       124|           50|
+|        200|  Jennifer|   Whalen| JWHALEN|515.123.4444|17-SEP-03|   AD_ASST|  4400|            - |       101|           10|
+|        201|   Michael|Hartstein|MHARTSTE|515.123.5555|17-FEB-04|    MK_MAN| 13000|            - |       100|           20|
+|        202|       Pat|      Fay|    PFAY|603.123.6666|17-AUG-05|    MK_REP|  6000|            - |       201|           20|
+|        203|     Susan|   Mavris| SMAVRIS|515.123.7777|07-JUN-02|    HR_REP|  6500|            - |       101|           40|
+|        204|   Hermann|     Baer|   HBAER|515.123.8888|07-JUN-02|    PR_REP| 10000|            - |       101|           70|
+|        205|   Shelley|  Higgins|SHIGGINS|515.123.8080|07-JUN-02|    AC_MGR| 12008|            - |       101|          110|
+|        206|   William|    Gietz|  WGIETZ|515.123.8181|07-JUN-02|AC_ACCOUNT|  8300|            - |       205|          110|
+|        100|    Steven|     King|   SKING|515.123.4567|17-JUN-03|   AD_PRES| 24000|            - |        - |           90|
+|        101|     Neena|  Kochhar|NKOCHHAR|515.123.4568|21-SEP-05|     AD_VP| 17000|            - |       100|           90|
+|        102|       Lex|  De Haan| LDEHAAN|515.123.4569|13-JAN-01|     AD_VP| 17000|            - |       100|           90|
+|        103| Alexander|   Hunold| AHUNOLD|590.423.4567|03-JAN-06|   IT_PROG|  9000|            - |       102|           60|
+|        104|     Bruce|    Ernst|  BERNST|590.423.4568|21-MAY-07|   IT_PROG|  6000|            - |       103|           60|
+|        105|     David|   Austin| DAUSTIN|590.423.4569|25-JUN-05|   IT_PROG|  4800|            - |       103|           60|
+|        106|     Valli|Pataballa|VPATABAL|590.423.4560|05-FEB-06|   IT_PROG|  4800|            - |       103|           60|
+|        107|     Diana|  Lorentz|DLORENTZ|590.423.5567|07-FEB-07|   IT_PROG|  4200|            - |       103|           60|
+|        108|     Nancy|Greenberg|NGREENBE|515.124.4569|17-AUG-02|    FI_MGR| 12008|            - |       101|          100|
+|        109|    Daniel|   Faviet| DFAVIET|515.124.4169|16-AUG-02|FI_ACCOUNT|  9000|            - |       108|          100|
+|        110|      John|     Chen|   JCHEN|515.124.4269|28-SEP-05|FI_ACCOUNT|  8200|            - |       108|          100|
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+only showing top 20 rows
+
+>>> empdf.groupBy("department_id").sum("SALARY").show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/group.py", line 41, in _api
+    jdf = getattr(self._jgd, name)(_to_seq(self.sql_ctx._sc, cols))
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1321, in __call__
+  File "/usr/local/spark/python/pyspark/sql/utils.py", line 117, in deco
+    raise converted from None
+pyspark.sql.utils.AnalysisException: "SALARY" is not a numeric column. Aggregation function can only be applied on a numeric column.
+>>> empdf.groupBy("department_id").sum(col("SALARY")).show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/group.py", line 41, in _api
+    jdf = getattr(self._jgd, name)(_to_seq(self.sql_ctx._sc, cols))
+  File "/usr/local/spark/python/pyspark/sql/column.py", line 62, in _to_seq
+    return sc._jvm.PythonUtils.toSeq(cols)
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1313, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1277, in _build_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1264, in _get_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_collections.py", line 511, in convert
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1313, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1277, in _build_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1264, in _get_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_collections.py", line 510, in convert
+  File "/usr/local/spark/python/pyspark/sql/column.py", line 463, in __iter__
+    raise TypeError("Column is not iterable")
+TypeError: Column is not iterable
+>>> empdf.groupBy("department_id").sum(SALARY).show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'SALARY' is not defined
+>>> empdf.groupBy("department_id").sum(empdf.SALARY).show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/group.py", line 41, in _api
+    jdf = getattr(self._jgd, name)(_to_seq(self.sql_ctx._sc, cols))
+  File "/usr/local/spark/python/pyspark/sql/column.py", line 62, in _to_seq
+    return sc._jvm.PythonUtils.toSeq(cols)
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1313, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1277, in _build_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1264, in _get_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_collections.py", line 511, in convert
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1313, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1277, in _build_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1264, in _get_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_collections.py", line 510, in convert
+  File "/usr/local/spark/python/pyspark/sql/column.py", line 463, in __iter__
+    raise TypeError("Column is not iterable")
+TypeError: Column is not iterable
+>>> empdf.groupBy("department_id","job_id").sum("SALARY").show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/group.py", line 41, in _api
+    jdf = getattr(self._jgd, name)(_to_seq(self.sql_ctx._sc, cols))
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1321, in __call__
+  File "/usr/local/spark/python/pyspark/sql/utils.py", line 117, in deco
+    raise converted from None
+pyspark.sql.utils.AnalysisException: "SALARY" is not a numeric column. Aggregation function can only be applied on a numeric column.
+>>> from pyspark.sql import SparkSession
+>>> empdf.groupBy("department_id","job_id").sum("SALARY").show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/group.py", line 41, in _api
+    jdf = getattr(self._jgd, name)(_to_seq(self.sql_ctx._sc, cols))
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1321, in __call__
+  File "/usr/local/spark/python/pyspark/sql/utils.py", line 117, in deco
+    raise converted from None
+pyspark.sql.utils.AnalysisException: "SALARY" is not a numeric column. Aggregation function can only be applied on a numeric column.
+>>> empdf.groupBy("department_id","job_id").sum(col("SALARY")).show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/group.py", line 41, in _api
+    jdf = getattr(self._jgd, name)(_to_seq(self.sql_ctx._sc, cols))
+  File "/usr/local/spark/python/pyspark/sql/column.py", line 62, in _to_seq
+    return sc._jvm.PythonUtils.toSeq(cols)
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1313, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1277, in _build_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1264, in _get_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_collections.py", line 511, in convert
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1313, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1277, in _build_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1264, in _get_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_collections.py", line 510, in convert
+  File "/usr/local/spark/python/pyspark/sql/column.py", line 463, in __iter__
+    raise TypeError("Column is not iterable")
+TypeError: Column is not iterable
+>>> empdf.groupBy("department_id","job_id").sum((col("SALARY"))).show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/group.py", line 41, in _api
+    jdf = getattr(self._jgd, name)(_to_seq(self.sql_ctx._sc, cols))
+  File "/usr/local/spark/python/pyspark/sql/column.py", line 62, in _to_seq
+    return sc._jvm.PythonUtils.toSeq(cols)
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1313, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1277, in _build_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1264, in _get_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_collections.py", line 511, in convert
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1313, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1277, in _build_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1264, in _get_args
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_collections.py", line 510, in convert
+  File "/usr/local/spark/python/pyspark/sql/column.py", line 463, in __iter__
+    raise TypeError("Column is not iterable")
+TypeError: Column is not iterable
+>>> empdf.groupBy("department_id","job_id").(sum(col("SALARY")).show()
+  File "<stdin>", line 1
+    empdf.groupBy("department_id","job_id").(sum(col("SALARY")).show()
+                                            ^
+SyntaxError: invalid syntax
+>>> empdf.groupBy("department_id").agg(sum("SALARY").alias("sum_salary")).show()
++-------------+----------+
+|department_id|sum_salary|
++-------------+----------+
+|           30|   24900.0|
+|          110|   20308.0|
+|          100|   51608.0|
+|           70|   10000.0|
+|           90|   58000.0|
+|           60|   28800.0|
+|           40|    6500.0|
+|           20|   19000.0|
+|           10|    4400.0|
+|           50|   85600.0|
++-------------+----------+
+
+>>> empdf.groupBy("department_id","job_id").sum("SALARY").show()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/spark/python/pyspark/sql/group.py", line 41, in _api
+    jdf = getattr(self._jgd, name)(_to_seq(self.sql_ctx._sc, cols))
+  File "/usr/local/spark/python/lib/py4j-0.10.9.3-src.zip/py4j/java_gateway.py", line 1321, in __call__
+  File "/usr/local/spark/python/pyspark/sql/utils.py", line 117, in deco
+    raise converted from None
+pyspark.sql.utils.AnalysisException: "SALARY" is not a numeric column. Aggregation function can only be applied on a numeric column.
+
+>>> empdf.groupBy("department_id").agg(sum("SALARY").alias("sum_salary"),max("salary").alias("max_salary")).show()
++-------------+----------+----------+
+|department_id|sum_salary|max_salary|
++-------------+----------+----------+
+|           10|    4400.0|      4400|
+|          100|   51608.0|      9000|
+|          110|   20308.0|      8300|
+|           20|   19000.0|      6000|
+|           30|   24900.0|      3100|
+|           40|    6500.0|      6500|
+|           50|   85600.0|      8200|
+|           60|   28800.0|      9000|
+|           70|   10000.0|     10000|
+|           90|   58000.0|     24000|
++-------------+----------+----------+
+>>> empdf.show()
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|EMPLOYEE_ID|FIRST_NAME|LAST_NAME|   EMAIL|PHONE_NUMBER|HIRE_DATE|    JOB_ID|SALARY|COMMISSION_PCT|MANAGER_ID|DEPARTMENT_ID|
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|        198|    Donald| OConnell|DOCONNEL|650.507.9833|21-JUN-07|  SH_CLERK|  2600|            - |       124|           50|
+|        199|   Douglas|    Grant|  DGRANT|650.507.9844|13-JAN-08|  SH_CLERK|  2600|            - |       124|           50|
+|        200|  Jennifer|   Whalen| JWHALEN|515.123.4444|17-SEP-03|   AD_ASST|  4400|            - |       101|           10|
+|        201|   Michael|Hartstein|MHARTSTE|515.123.5555|17-FEB-04|    MK_MAN| 13000|            - |       100|           20|
+|        202|       Pat|      Fay|    PFAY|603.123.6666|17-AUG-05|    MK_REP|  6000|            - |       201|           20|
+|        203|     Susan|   Mavris| SMAVRIS|515.123.7777|07-JUN-02|    HR_REP|  6500|            - |       101|           40|
+|        204|   Hermann|     Baer|   HBAER|515.123.8888|07-JUN-02|    PR_REP| 10000|            - |       101|           70|
+|        205|   Shelley|  Higgins|SHIGGINS|515.123.8080|07-JUN-02|    AC_MGR| 12008|            - |       101|          110|
+|        206|   William|    Gietz|  WGIETZ|515.123.8181|07-JUN-02|AC_ACCOUNT|  8300|            - |       205|          110|
+|        100|    Steven|     King|   SKING|515.123.4567|17-JUN-03|   AD_PRES| 24000|            - |        - |           90|
+|        101|     Neena|  Kochhar|NKOCHHAR|515.123.4568|21-SEP-05|     AD_VP| 17000|            - |       100|           90|
+|        102|       Lex|  De Haan| LDEHAAN|515.123.4569|13-JAN-01|     AD_VP| 17000|            - |       100|           90|
+|        103| Alexander|   Hunold| AHUNOLD|590.423.4567|03-JAN-06|   IT_PROG|  9000|            - |       102|           60|
+|        104|     Bruce|    Ernst|  BERNST|590.423.4568|21-MAY-07|   IT_PROG|  6000|            - |       103|           60|
+|        105|     David|   Austin| DAUSTIN|590.423.4569|25-JUN-05|   IT_PROG|  4800|            - |       103|           60|
+|        106|     Valli|Pataballa|VPATABAL|590.423.4560|05-FEB-06|   IT_PROG|  4800|            - |       103|           60|
+|        107|     Diana|  Lorentz|DLORENTZ|590.423.5567|07-FEB-07|   IT_PROG|  4200|            - |       103|           60|
+|        108|     Nancy|Greenberg|NGREENBE|515.124.4569|17-AUG-02|    FI_MGR| 12008|            - |       101|          100|
+|        109|    Daniel|   Faviet| DFAVIET|515.124.4169|16-AUG-02|FI_ACCOUNT|  9000|            - |       108|          100|
+|        110|      John|     Chen|   JCHEN|515.124.4269|28-SEP-05|FI_ACCOUNT|  8200|            - |       108|          100|
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+only showing top 20 rows
+
+>>> empdf.withColumn("EMP_GRADE",when(col("salary")>15000,"A").when((col("salary")>=10000)).select("employee_id","emp_grade").show()
+... empdf.withColumn("EMP_GRADE",when(col("salary")>15000,"A").when((col("salary")>=10000)).select("employee_id","emp_grade").show()
+  File "<stdin>", line 2
+    empdf.withColumn("EMP_GRADE",when(col("salary")>15000,"A").when((col("salary")>=10000)).select("employee_id","emp_grade").show()
+    ^
+SyntaxError: invalid syntax
+>>> empdf.withColumn("EMP_GRADE",when(col("salary")>15000,"A").when((col("salary")>=10000),"B").otherwise("C")).select("employee_id","emp_grade").show()
++-----------+---------+
+|employee_id|emp_grade|
++-----------+---------+
+|        198|        C|
+|        199|        C|
+|        200|        C|
+|        201|        B|
+|        202|        C|
+|        203|        C|
+|        204|        B|
+|        205|        B|
+|        206|        C|
+|        100|        A|
+|        101|        A|
+|        102|        A|
+|        103|        C|
+|        104|        C|
+|        105|        C|
+|        106|        C|
+|        107|        C|
+|        108|        B|
+|        109|        C|
+|        110|        C|
++-----------+---------+
+only showing top 20 rows
+
+>>> empdf.show()
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|EMPLOYEE_ID|FIRST_NAME|LAST_NAME|   EMAIL|PHONE_NUMBER|HIRE_DATE|    JOB_ID|SALARY|COMMISSION_PCT|MANAGER_ID|DEPARTMENT_ID|
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|        198|    Donald| OConnell|DOCONNEL|650.507.9833|21-JUN-07|  SH_CLERK|  2600|            - |       124|           50|
+|        199|   Douglas|    Grant|  DGRANT|650.507.9844|13-JAN-08|  SH_CLERK|  2600|            - |       124|           50|
+|        200|  Jennifer|   Whalen| JWHALEN|515.123.4444|17-SEP-03|   AD_ASST|  4400|            - |       101|           10|
+|        201|   Michael|Hartstein|MHARTSTE|515.123.5555|17-FEB-04|    MK_MAN| 13000|            - |       100|           20|
+|        202|       Pat|      Fay|    PFAY|603.123.6666|17-AUG-05|    MK_REP|  6000|            - |       201|           20|
+|        203|     Susan|   Mavris| SMAVRIS|515.123.7777|07-JUN-02|    HR_REP|  6500|            - |       101|           40|
+|        204|   Hermann|     Baer|   HBAER|515.123.8888|07-JUN-02|    PR_REP| 10000|            - |       101|           70|
+|        205|   Shelley|  Higgins|SHIGGINS|515.123.8080|07-JUN-02|    AC_MGR| 12008|            - |       101|          110|
+|        206|   William|    Gietz|  WGIETZ|515.123.8181|07-JUN-02|AC_ACCOUNT|  8300|            - |       205|          110|
+|        100|    Steven|     King|   SKING|515.123.4567|17-JUN-03|   AD_PRES| 24000|            - |        - |           90|
+|        101|     Neena|  Kochhar|NKOCHHAR|515.123.4568|21-SEP-05|     AD_VP| 17000|            - |       100|           90|
+|        102|       Lex|  De Haan| LDEHAAN|515.123.4569|13-JAN-01|     AD_VP| 17000|            - |       100|           90|
+|        103| Alexander|   Hunold| AHUNOLD|590.423.4567|03-JAN-06|   IT_PROG|  9000|            - |       102|           60|
+|        104|     Bruce|    Ernst|  BERNST|590.423.4568|21-MAY-07|   IT_PROG|  6000|            - |       103|           60|
+|        105|     David|   Austin| DAUSTIN|590.423.4569|25-JUN-05|   IT_PROG|  4800|            - |       103|           60|
+|        106|     Valli|Pataballa|VPATABAL|590.423.4560|05-FEB-06|   IT_PROG|  4800|            - |       103|           60|
+|        107|     Diana|  Lorentz|DLORENTZ|590.423.5567|07-FEB-07|   IT_PROG|  4200|            - |       103|           60|
+|        108|     Nancy|Greenberg|NGREENBE|515.124.4569|17-AUG-02|    FI_MGR| 12008|            - |       101|          100|
+|        109|    Daniel|   Faviet| DFAVIET|515.124.4169|16-AUG-02|FI_ACCOUNT|  9000|            - |       108|          100|
+|        110|      John|     Chen|   JCHEN|515.124.4269|28-SEP-05|FI_ACCOUNT|  8200|            - |       108|          100|
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+only showing top 20 rows
+
+>>> empdf.createOrReplaceTempView("employee")
+>>> df1=spark.sql("select * from employee")
+>>> df1.show()
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|EMPLOYEE_ID|FIRST_NAME|LAST_NAME|   EMAIL|PHONE_NUMBER|HIRE_DATE|    JOB_ID|SALARY|COMMISSION_PCT|MANAGER_ID|DEPARTMENT_ID|
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+|        198|    Donald| OConnell|DOCONNEL|650.507.9833|21-JUN-07|  SH_CLERK|  2600|            - |       124|           50|
+|        199|   Douglas|    Grant|  DGRANT|650.507.9844|13-JAN-08|  SH_CLERK|  2600|            - |       124|           50|
+|        200|  Jennifer|   Whalen| JWHALEN|515.123.4444|17-SEP-03|   AD_ASST|  4400|            - |       101|           10|
+|        201|   Michael|Hartstein|MHARTSTE|515.123.5555|17-FEB-04|    MK_MAN| 13000|            - |       100|           20|
+|        202|       Pat|      Fay|    PFAY|603.123.6666|17-AUG-05|    MK_REP|  6000|            - |       201|           20|
+|        203|     Susan|   Mavris| SMAVRIS|515.123.7777|07-JUN-02|    HR_REP|  6500|            - |       101|           40|
+|        204|   Hermann|     Baer|   HBAER|515.123.8888|07-JUN-02|    PR_REP| 10000|            - |       101|           70|
+|        205|   Shelley|  Higgins|SHIGGINS|515.123.8080|07-JUN-02|    AC_MGR| 12008|            - |       101|          110|
+|        206|   William|    Gietz|  WGIETZ|515.123.8181|07-JUN-02|AC_ACCOUNT|  8300|            - |       205|          110|
+|        100|    Steven|     King|   SKING|515.123.4567|17-JUN-03|   AD_PRES| 24000|            - |        - |           90|
+|        101|     Neena|  Kochhar|NKOCHHAR|515.123.4568|21-SEP-05|     AD_VP| 17000|            - |       100|           90|
+|        102|       Lex|  De Haan| LDEHAAN|515.123.4569|13-JAN-01|     AD_VP| 17000|            - |       100|           90|
+|        103| Alexander|   Hunold| AHUNOLD|590.423.4567|03-JAN-06|   IT_PROG|  9000|            - |       102|           60|
+|        104|     Bruce|    Ernst|  BERNST|590.423.4568|21-MAY-07|   IT_PROG|  6000|            - |       103|           60|
+|        105|     David|   Austin| DAUSTIN|590.423.4569|25-JUN-05|   IT_PROG|  4800|            - |       103|           60|
+|        106|     Valli|Pataballa|VPATABAL|590.423.4560|05-FEB-06|   IT_PROG|  4800|            - |       103|           60|
+|        107|     Diana|  Lorentz|DLORENTZ|590.423.5567|07-FEB-07|   IT_PROG|  4200|            - |       103|           60|
+|        108|     Nancy|Greenberg|NGREENBE|515.124.4569|17-AUG-02|    FI_MGR| 12008|            - |       101|          100|
+|        109|    Daniel|   Faviet| DFAVIET|515.124.4169|16-AUG-02|FI_ACCOUNT|  9000|            - |       108|          100|
+|        110|      John|     Chen|   JCHEN|515.124.4269|28-SEP-05|FI_ACCOUNT|  8200|            - |       108|          100|
++-----------+----------+---------+--------+------------+---------+----------+------+--------------+----------+-------------+
+only showing top 20 rows
+---window function---
+>>> from pyspark.sql.window import window
+>>> windowspec=window.partionBY("department_id").orderBy("salary")
+>>>
