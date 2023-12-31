@@ -1,0 +1,8274 @@
+[
+ {
+   "Name": "Adam Donachie",
+   "Team": "BAL",
+   "Position": "Catcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 22.99
+ },
+ {
+   "Name": "Paul Bako",
+   "Team": "BAL",
+   "Position": "Catcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 215,
+   "Age": 34.69
+ },
+ {
+   "Name": "Ramon Hernandez",
+   "Team": "BAL",
+   "Position": "Catcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 210,
+   "Age": 30.78
+ },
+ {
+   "Name": "Kevin Millar",
+   "Team": "BAL",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 210,
+   "Age": 35.43
+ },
+ {
+   "Name": "Chris Gomez",
+   "Team": "BAL",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 188,
+   "Age": 35.71
+ },
+ {
+   "Name": "Brian Roberts",
+   "Team": "BAL",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 176,
+   "Age": 29.39
+ },
+ {
+   "Name": "Miguel Tejada",
+   "Team": "BAL",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 209,
+   "Age": 30.77
+ },
+ {
+   "Name": "Melvin Mora",
+   "Team": "BAL",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 200,
+   "Age": 35.07
+ },
+ {
+   "Name": "Aubrey Huff",
+   "Team": "BAL",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 231,
+   "Age": 30.19
+ },
+ {
+   "Name": "Adam Stern",
+   "Team": "BAL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 180,
+   "Age": 27.05
+ },
+ {
+   "Name": "Jeff Fiorentino",
+   "Team": "BAL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 188,
+   "Age": 23.88
+ },
+ {
+   "Name": "Freddie Bynum",
+   "Team": "BAL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.96
+ },
+ {
+   "Name": "Nick Markakis",
+   "Team": "BAL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 185,
+   "Age": 23.29
+ },
+ {
+   "Name": "Brandon Fahey",
+   "Team": "BAL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 160,
+   "Age": 26.11
+ },
+ {
+   "Name": "Corey Patterson",
+   "Team": "BAL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 180,
+   "Age": 27.55
+ },
+ {
+   "Name": "Jay Payton",
+   "Team": "BAL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 185,
+   "Age": 34.27
+ },
+ {
+   "Name": "Jay Gibbons",
+   "Team": "BAL",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 197,
+   "Age": 30
+ },
+ {
+   "Name": "Erik Bedard",
+   "Team": "BAL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 189,
+   "Age": 27.99
+ },
+ {
+   "Name": "Hayden Penn",
+   "Team": "BAL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 185,
+   "Age": 22.38
+ },
+ {
+   "Name": "Adam Loewen",
+   "Team": "BAL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 219,
+   "Age": 22.89
+ },
+ {
+   "Name": "Daniel Cabrera",
+   "Team": "BAL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 230,
+   "Age": 25.76
+ },
+ {
+   "Name": "Steve Trachsel",
+   "Team": "BAL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 205,
+   "Age": 36.33
+ },
+ {
+   "Name": "Jaret Wright",
+   "Team": "BAL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 230,
+   "Age": 31.17
+ },
+ {
+   "Name": "Kris Benson",
+   "Team": "BAL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 195,
+   "Age": 32.31
+ },
+ {
+   "Name": "Scott Williamson",
+   "Team": "BAL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 31.03
+ },
+ {
+   "Name": "John Parrish",
+   "Team": "BAL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 192,
+   "Age": 29.26
+ },
+ {
+   "Name": "Danys Baez",
+   "Team": "BAL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 225,
+   "Age": 29.47
+ },
+ {
+   "Name": "Chad Bradford",
+   "Team": "BAL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 203,
+   "Age": 32.46
+ },
+ {
+   "Name": "Jamie Walker",
+   "Team": "BAL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 195,
+   "Age": 35.67
+ },
+ {
+   "Name": "Brian Burres",
+   "Team": "BAL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 182,
+   "Age": 25.89
+ },
+ {
+   "Name": "Kurt Birkins",
+   "Team": "BAL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 188,
+   "Age": 26.55
+ },
+ {
+   "Name": "James Hoey",
+   "Team": "BAL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 200,
+   "Age": 24.17
+ },
+ {
+   "Name": "Sendy Rleal",
+   "Team": "BAL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.69
+ },
+ {
+   "Name": "Chris Ray",
+   "Team": "BAL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.13
+ },
+ {
+   "Name": "Jeremy Guthrie",
+   "Team": "BAL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 27.9
+ },
+ {
+   "Name": "A.J. Pierzynski",
+   "Team": "CWS",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 245,
+   "Age": 30.17
+ },
+ {
+   "Name": "Toby Hall",
+   "Team": "CWS",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 240,
+   "Age": 31.36
+ },
+ {
+   "Name": "Paul Konerko",
+   "Team": "CWS",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 215,
+   "Age": 30.99
+ },
+ {
+   "Name": "Tadahito Iguchi",
+   "Team": "CWS",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 185,
+   "Age": 32.24
+ },
+ {
+   "Name": "Juan Uribe",
+   "Team": "CWS",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 175,
+   "Age": 27.61
+ },
+ {
+   "Name": "Alex Cintron",
+   "Team": "CWS",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 199,
+   "Age": 28.2
+ },
+ {
+   "Name": "Joe Crede",
+   "Team": "CWS",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 28.85
+ },
+ {
+   "Name": "Josh Fields",
+   "Team": "CWS",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 215,
+   "Age": 24.21
+ },
+ {
+   "Name": "Ryan Sweeney",
+   "Team": "CWS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 200,
+   "Age": 22.02
+ },
+ {
+   "Name": "Brian N. Anderson",
+   "Team": "CWS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 205,
+   "Age": 24.97
+ },
+ {
+   "Name": "Luis Terrero",
+   "Team": "CWS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 206,
+   "Age": 26.78
+ },
+ {
+   "Name": "Pablo Ozuna",
+   "Team": "CWS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 186,
+   "Age": 32.51
+ },
+ {
+   "Name": "Scott Podsednik",
+   "Team": "CWS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 188,
+   "Age": 30.95
+ },
+ {
+   "Name": "Jermaine Dye",
+   "Team": "CWS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 220,
+   "Age": 33.09
+ },
+ {
+   "Name": "Darin Erstad",
+   "Team": "CWS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 32.74
+ },
+ {
+   "Name": "Rob Mackowiak",
+   "Team": "CWS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 195,
+   "Age": 30.69
+ },
+ {
+   "Name": "Jim Thome",
+   "Team": "CWS",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 244,
+   "Age": 36.51
+ },
+ {
+   "Name": "Jerry Owens",
+   "Team": "CWS",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 195,
+   "Age": 26.03
+ },
+ {
+   "Name": "Charlie Haeger",
+   "Team": "CWS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 23.45
+ },
+ {
+   "Name": "Heath Phillips",
+   "Team": "CWS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 24.94
+ },
+ {
+   "Name": "Gavin Floyd",
+   "Team": "CWS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 212,
+   "Age": 24.09
+ },
+ {
+   "Name": "Jose Contreras",
+   "Team": "CWS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 224,
+   "Age": 35.23
+ },
+ {
+   "Name": "Jon Garland",
+   "Team": "CWS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 210,
+   "Age": 27.43
+ },
+ {
+   "Name": "Javier Vazquez",
+   "Team": "CWS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 205,
+   "Age": 30.6
+ },
+ {
+   "Name": "Mark Buehrle",
+   "Team": "CWS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 27.94
+ },
+ {
+   "Name": "Mike MacDougal",
+   "Team": "CWS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 195,
+   "Age": 29.99
+ },
+ {
+   "Name": "David Aardsma",
+   "Team": "CWS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.17
+ },
+ {
+   "Name": "Andrew Sisco",
+   "Team": "CWS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 81,
+   "Body - Weight(lbs)": 260,
+   "Age": 24.13
+ },
+ {
+   "Name": "Matt Thornton",
+   "Team": "CWS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 228,
+   "Age": 30.46
+ },
+ {
+   "Name": "Bobby Jenks",
+   "Team": "CWS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 270,
+   "Age": 25.96
+ },
+ {
+   "Name": "Boone Logan",
+   "Team": "CWS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 200,
+   "Age": 22.55
+ },
+ {
+   "Name": "Sean Tracey",
+   "Team": "CWS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 26.29
+ },
+ {
+   "Name": "Nick Masset",
+   "Team": "CWS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 190,
+   "Age": 24.79
+ },
+ {
+   "Name": "Jose Molina",
+   "Team": "ANA",
+   "Position": "Catcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 31.74
+ },
+ {
+   "Name": "Jeff Mathis",
+   "Team": "ANA",
+   "Position": "Catcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 23.92
+ },
+ {
+   "Name": "Mike Napoli",
+   "Team": "ANA",
+   "Position": "Catcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 205,
+   "Age": 25.33
+ },
+ {
+   "Name": "Casey Kotchman",
+   "Team": "ANA",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 24.02
+ },
+ {
+   "Name": "Kendry Morales",
+   "Team": "ANA",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 220,
+   "Age": 23.7
+ },
+ {
+   "Name": "Shea Hillenbrand",
+   "Team": "ANA",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 211,
+   "Age": 31.59
+ },
+ {
+   "Name": "Robb Quinlan",
+   "Team": "ANA",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 29.95
+ },
+ {
+   "Name": "Howie Kendrick",
+   "Team": "ANA",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 180,
+   "Age": 23.64
+ },
+ {
+   "Name": "Orlando Cabrera",
+   "Team": "ANA",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 190,
+   "Age": 32.33
+ },
+ {
+   "Name": "Erick Aybar",
+   "Team": "ANA",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 170,
+   "Age": 23.13
+ },
+ {
+   "Name": "Dallas McPherson",
+   "Team": "ANA",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 230,
+   "Age": 26.6
+ },
+ {
+   "Name": "Maicer Izturis",
+   "Team": "ANA",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 68,
+   "Body - Weight(lbs)": 155,
+   "Age": 26.46
+ },
+ {
+   "Name": "Reggie Willits",
+   "Team": "ANA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 185,
+   "Age": 25.75
+ },
+ {
+   "Name": "Tommy Murphy",
+   "Team": "ANA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 27.51
+ },
+ {
+   "Name": "Terry Evans",
+   "Team": "ANA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.11
+ },
+ {
+   "Name": "Gary Matthews Jr.",
+   "Team": "ANA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 225,
+   "Age": 32.51
+ },
+ {
+   "Name": "Garret Anderson",
+   "Team": "ANA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 225,
+   "Age": 34.67
+ },
+ {
+   "Name": "Vladimir Guerrero",
+   "Team": "ANA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 31.06
+ },
+ {
+   "Name": "Chone Figgins",
+   "Team": "ANA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 68,
+   "Body - Weight(lbs)": 160,
+   "Age": 29.1
+ },
+ {
+   "Name": "Juan Rivera",
+   "Team": "ANA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 205,
+   "Age": 28.66
+ },
+ {
+   "Name": "John Lackey",
+   "Team": "ANA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 235,
+   "Age": 28.35
+ },
+ {
+   "Name": "Bartolo Colon",
+   "Team": "ANA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 250,
+   "Age": 33.77
+ },
+ {
+   "Name": "Kelvim Escobar",
+   "Team": "ANA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 210,
+   "Age": 30.89
+ },
+ {
+   "Name": "Dustin Moseley",
+   "Team": "ANA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 190,
+   "Age": 37.74
+ },
+ {
+   "Name": "Ervin Santana",
+   "Team": "ANA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 160,
+   "Age": 24.14
+ },
+ {
+   "Name": "Joe Saunders",
+   "Team": "ANA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.71
+ },
+ {
+   "Name": "Jered Weaver",
+   "Team": "ANA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 205,
+   "Age": 24.41
+ },
+ {
+   "Name": "Chris Resop",
+   "Team": "ANA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 222,
+   "Age": 24.32
+ },
+ {
+   "Name": "Phil Seibel",
+   "Team": "ANA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 195,
+   "Age": 28.09
+ },
+ {
+   "Name": "Justin Speier",
+   "Team": "ANA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 205,
+   "Age": 33.31
+ },
+ {
+   "Name": "Darren Oliver",
+   "Team": "ANA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 36.4
+ },
+ {
+   "Name": "Hector Carrasco",
+   "Team": "ANA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 37.36
+ },
+ {
+   "Name": "Scot Shields",
+   "Team": "ANA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 170,
+   "Age": 31.61
+ },
+ {
+   "Name": "Francisco Rodriguez",
+   "Team": "ANA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 25.14
+ },
+ {
+   "Name": "Greg Jones",
+   "Team": "ANA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 195,
+   "Age": 30.29
+ },
+ {
+   "Name": "Doug Mirabelli",
+   "Team": "BOS",
+   "Position": "Catcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 220,
+   "Age": 36.37
+ },
+ {
+   "Name": "Jason Varitek",
+   "Team": "BOS",
+   "Position": "Catcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 230,
+   "Age": 34.89
+ },
+ {
+   "Name": "George Kottaras",
+   "Team": "BOS",
+   "Position": "Catcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 23.79
+ },
+ {
+   "Name": "Kevin Youkilis",
+   "Team": "BOS",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 220,
+   "Age": 27.96
+ },
+ {
+   "Name": "Dustin Pedroia",
+   "Team": "BOS",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 180,
+   "Age": 23.54
+ },
+ {
+   "Name": "Alex Cora",
+   "Team": "BOS",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 31.37
+ },
+ {
+   "Name": "Julio Lugo",
+   "Team": "BOS",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 170,
+   "Age": 31.29
+ },
+ {
+   "Name": "Mike Lowell",
+   "Team": "BOS",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 33.01
+ },
+ {
+   "Name": "Wily Mo Pe?a",
+   "Team": "BOS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 215,
+   "Age": 25.1
+ },
+ {
+   "Name": "J.D. Drew",
+   "Team": "BOS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 31.28
+ },
+ {
+   "Name": "Manny Ramirez",
+   "Team": "BOS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 213,
+   "Age": 34.75
+ },
+ {
+   "Name": "Brandon Moss",
+   "Team": "BOS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 23.46
+ },
+ {
+   "Name": "David Murphy",
+   "Team": "BOS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 192,
+   "Age": 25.37
+ },
+ {
+   "Name": "Eric Hinske",
+   "Team": "BOS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 235,
+   "Age": 29.57
+ },
+ {
+   "Name": "Coco Crisp",
+   "Team": "BOS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 27.33
+ },
+ {
+   "Name": "David Ortiz",
+   "Team": "BOS",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 230,
+   "Age": 31.28
+ },
+ {
+   "Name": "Curt Schilling",
+   "Team": "BOS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 235,
+   "Age": 40.29
+ },
+ {
+   "Name": "Tim Wakefield",
+   "Team": "BOS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 40.58
+ },
+ {
+   "Name": "Josh Beckett",
+   "Team": "BOS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 222,
+   "Age": 26.79
+ },
+ {
+   "Name": "Matt Clement",
+   "Team": "BOS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 32.55
+ },
+ {
+   "Name": "Jonathan Papelbon",
+   "Team": "BOS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 230,
+   "Age": 26.27
+ },
+ {
+   "Name": "Kyle Snyder",
+   "Team": "BOS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 80,
+   "Body - Weight(lbs)": 220,
+   "Age": 29.47
+ },
+ {
+   "Name": "Devern Hansack",
+   "Team": "BOS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 29.07
+ },
+ {
+   "Name": "Jon Lester",
+   "Team": "BOS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 23.15
+ },
+ {
+   "Name": "Kason Gabbard",
+   "Team": "BOS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 24.9
+ },
+ {
+   "Name": "Craig Hansen",
+   "Team": "BOS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 210,
+   "Age": 23.29
+ },
+ {
+   "Name": "Hideki Okajima",
+   "Team": "BOS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 194,
+   "Age": 31.18
+ },
+ {
+   "Name": "Craig Breslow",
+   "Team": "BOS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.56
+ },
+ {
+   "Name": "Manny Delcarmen",
+   "Team": "BOS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.03
+ },
+ {
+   "Name": "Brendan Donnelly",
+   "Team": "BOS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 240,
+   "Age": 35.66
+ },
+ {
+   "Name": "Javier Lopez",
+   "Team": "BOS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 200,
+   "Age": 29.64
+ },
+ {
+   "Name": "J.C. Romero",
+   "Team": "BOS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 198,
+   "Age": 30.74
+ },
+ {
+   "Name": "Joel Pineiro",
+   "Team": "BOS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 28.43
+ },
+ {
+   "Name": "Julian Tavarez",
+   "Team": "BOS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 195,
+   "Age": 33.77
+ },
+ {
+   "Name": "Mike Timlin",
+   "Team": "BOS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 210,
+   "Age": 40.97
+ },
+ {
+   "Name": "Nick DeBarr",
+   "Team": "BOS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 220,
+   "Age": 23.52
+ },
+ {
+   "Name": "Victor Martinez",
+   "Team": "CLE",
+   "Position": "Catcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 28.19
+ },
+ {
+   "Name": "Kelly Shoppach",
+   "Team": "CLE",
+   "Position": "Catcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 210,
+   "Age": 26.84
+ },
+ {
+   "Name": "Ryan Garko",
+   "Team": "CLE",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 225,
+   "Age": 26.16
+ },
+ {
+   "Name": "Joe Inglett",
+   "Team": "CLE",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 180,
+   "Age": 28.67
+ },
+ {
+   "Name": "Josh Barfield",
+   "Team": "CLE",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 24.2
+ },
+ {
+   "Name": "Hector Luna",
+   "Team": "CLE",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 170,
+   "Age": 27.08
+ },
+ {
+   "Name": "Jhonny Peralta",
+   "Team": "CLE",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 185,
+   "Age": 24.76
+ },
+ {
+   "Name": "Andy Marte",
+   "Team": "CLE",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 185,
+   "Age": 23.36
+ },
+ {
+   "Name": "Ben Francisco",
+   "Team": "CLE",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 25.35
+ },
+ {
+   "Name": "Shin-Soo Choo",
+   "Team": "CLE",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 178,
+   "Age": 24.63
+ },
+ {
+   "Name": "Franklin Gutierrez",
+   "Team": "CLE",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 175,
+   "Age": 24.02
+ },
+ {
+   "Name": "Grady Sizemore",
+   "Team": "CLE",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 24.58
+ },
+ {
+   "Name": "Jason Michaels",
+   "Team": "CLE",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 204,
+   "Age": 30.82
+ },
+ {
+   "Name": "Trot Nixon",
+   "Team": "CLE",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 211,
+   "Age": 32.89
+ },
+ {
+   "Name": "David Dellucci",
+   "Team": "CLE",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 33.33
+ },
+ {
+   "Name": "Casey Blake",
+   "Team": "CLE",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 33.52
+ },
+ {
+   "Name": "Travis Hafner",
+   "Team": "CLE",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 240,
+   "Age": 29.74
+ },
+ {
+   "Name": "Paul Byrd",
+   "Team": "CLE",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 36.24
+ },
+ {
+   "Name": "Cliff Lee",
+   "Team": "CLE",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 190,
+   "Age": 28.5
+ },
+ {
+   "Name": "Jake Westbrook",
+   "Team": "CLE",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 185,
+   "Age": 29.42
+ },
+ {
+   "Name": "C.C. Sabathia",
+   "Team": "CLE",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 290,
+   "Age": 26.61
+ },
+ {
+   "Name": "Jeremy Sowers",
+   "Team": "CLE",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 175,
+   "Age": 23.79
+ },
+ {
+   "Name": "Rafael Perez",
+   "Team": "CLE",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 185,
+   "Age": 24.96
+ },
+ {
+   "Name": "Brian Slocum",
+   "Team": "CLE",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.93
+ },
+ {
+   "Name": "Edward Mujica",
+   "Team": "CLE",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 22.81
+ },
+ {
+   "Name": "Fernando Cabrera",
+   "Team": "CLE",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 170,
+   "Age": 25.29
+ },
+ {
+   "Name": "Tom Mastny",
+   "Team": "CLE",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 220,
+   "Age": 26.07
+ },
+ {
+   "Name": "Juan Lara",
+   "Team": "CLE",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 26.09
+ },
+ {
+   "Name": "Fausto Carmona",
+   "Team": "CLE",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 220,
+   "Age": 23.23
+ },
+ {
+   "Name": "Aaron Fultz",
+   "Team": "CLE",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 205,
+   "Age": 33.49
+ },
+ {
+   "Name": "Rafael Betancourt",
+   "Team": "CLE",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 31.84
+ },
+ {
+   "Name": "Roberto Hernandez",
+   "Team": "CLE",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 250,
+   "Age": 42.3
+ },
+ {
+   "Name": "Joe Borowski",
+   "Team": "CLE",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 225,
+   "Age": 35.82
+ },
+ {
+   "Name": "Matt Miller",
+   "Team": "CLE",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 215,
+   "Age": 35.27
+ },
+ {
+   "Name": "Jason Davis",
+   "Team": "CLE",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 210,
+   "Age": 26.81
+ },
+ {
+   "Name": "Mike Piazza",
+   "Team": "OAK",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 215,
+   "Age": 38.49
+ },
+ {
+   "Name": "Jason Kendall",
+   "Team": "OAK",
+   "Position": "Catcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 195,
+   "Age": 32.68
+ },
+ {
+   "Name": "Adam Melhuse",
+   "Team": "OAK",
+   "Position": "Catcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 34.93
+ },
+ {
+   "Name": "Nick Swisher",
+   "Team": "OAK",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 194,
+   "Age": 26.26
+ },
+ {
+   "Name": "Dan Johnson",
+   "Team": "OAK",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 27.56
+ },
+ {
+   "Name": "Donald Murphy",
+   "Team": "OAK",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 180,
+   "Age": 23.98
+ },
+ {
+   "Name": "Mark Ellis",
+   "Team": "OAK",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 180,
+   "Age": 29.73
+ },
+ {
+   "Name": "Marco Scutaro",
+   "Team": "OAK",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 170,
+   "Age": 31.33
+ },
+ {
+   "Name": "Bobby Crosby",
+   "Team": "OAK",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 195,
+   "Age": 27.13
+ },
+ {
+   "Name": "Mark Kiger",
+   "Team": "OAK",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.75
+ },
+ {
+   "Name": "Antonio Perez",
+   "Team": "OAK",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 170,
+   "Age": 27.09
+ },
+ {
+   "Name": "Eric Chavez",
+   "Team": "OAK",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 206,
+   "Age": 29.23
+ },
+ {
+   "Name": "Milton Bradley",
+   "Team": "OAK",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 205,
+   "Age": 28.88
+ },
+ {
+   "Name": "Shannon Stewart",
+   "Team": "OAK",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 200,
+   "Age": 33.01
+ },
+ {
+   "Name": "Bobby Kielty",
+   "Team": "OAK",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 225,
+   "Age": 30.57
+ },
+ {
+   "Name": "Mark Kotsay",
+   "Team": "OAK",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 201,
+   "Age": 31.24
+ },
+ {
+   "Name": "Ryan Goleski",
+   "Team": "OAK",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 225,
+   "Age": 24.95
+ },
+ {
+   "Name": "Jeremy Brown",
+   "Team": "OAK",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 226,
+   "Age": 27.35
+ },
+ {
+   "Name": "Jason Windsor",
+   "Team": "OAK",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 233,
+   "Age": 24.62
+ },
+ {
+   "Name": "David Shafer",
+   "Team": "OAK",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 24.98
+ },
+ {
+   "Name": "Joe Blanton",
+   "Team": "OAK",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 225,
+   "Age": 26.22
+ },
+ {
+   "Name": "Brad Halsey",
+   "Team": "OAK",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.04
+ },
+ {
+   "Name": "Dan Haren",
+   "Team": "OAK",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 220,
+   "Age": 26.45
+ },
+ {
+   "Name": "Rich Harden",
+   "Team": "OAK",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 25.25
+ },
+ {
+   "Name": "Joe Kennedy",
+   "Team": "OAK",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 237,
+   "Age": 27.77
+ },
+ {
+   "Name": "Esteban Loaiza",
+   "Team": "OAK",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 215,
+   "Age": 35.16
+ },
+ {
+   "Name": "Alan Embree",
+   "Team": "OAK",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 37.1
+ },
+ {
+   "Name": "Jay Witasick",
+   "Team": "OAK",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 235,
+   "Age": 34.51
+ },
+ {
+   "Name": "Justin Duchscherer",
+   "Team": "OAK",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 190,
+   "Age": 29.28
+ },
+ {
+   "Name": "Kiko Calero",
+   "Team": "OAK",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 32.14
+ },
+ {
+   "Name": "Chad Gaudin",
+   "Team": "OAK",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 165,
+   "Age": 23.94
+ },
+ {
+   "Name": "Lenny DiNardo",
+   "Team": "OAK",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 195,
+   "Age": 27.45
+ },
+ {
+   "Name": "Scott Dunn",
+   "Team": "OAK",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 28.77
+ },
+ {
+   "Name": "Huston Street",
+   "Team": "OAK",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 190,
+   "Age": 23.58
+ },
+ {
+   "Name": "Ron Flores",
+   "Team": "OAK",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 27.56
+ },
+ {
+   "Name": "Jay Marshall",
+   "Team": "OAK",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 185,
+   "Age": 24.01
+ },
+ {
+   "Name": "Marcus McBeth",
+   "Team": "OAK",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 185,
+   "Age": 26.52
+ },
+ {
+   "Name": "Jorge Posada",
+   "Team": "NYY",
+   "Position": "Catcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 205,
+   "Age": 35.54
+ },
+ {
+   "Name": "Wil Nieves",
+   "Team": "NYY",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 29.43
+ },
+ {
+   "Name": "Andy Phillips",
+   "Team": "NYY",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 205,
+   "Age": 29.9
+ },
+ {
+   "Name": "Doug Mientkiewicz",
+   "Team": "NYY",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 206,
+   "Age": 32.7
+ },
+ {
+   "Name": "Josh Phelps",
+   "Team": "NYY",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 28.8
+ },
+ {
+   "Name": "Miguel Cairo",
+   "Team": "NYY",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 208,
+   "Age": 32.82
+ },
+ {
+   "Name": "Robinson Cano",
+   "Team": "NYY",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 170,
+   "Age": 24.36
+ },
+ {
+   "Name": "Derek Jeter",
+   "Team": "NYY",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 195,
+   "Age": 32.68
+ },
+ {
+   "Name": "Alex Rodriguez",
+   "Team": "NYY",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 31.59
+ },
+ {
+   "Name": "Johnny Damon",
+   "Team": "NYY",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 33.32
+ },
+ {
+   "Name": "Bobby Abreu",
+   "Team": "NYY",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 211,
+   "Age": 32.97
+ },
+ {
+   "Name": "Hideki Matsui",
+   "Team": "NYY",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 230,
+   "Age": 32.72
+ },
+ {
+   "Name": "Melky Cabrera",
+   "Team": "NYY",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 170,
+   "Age": 22.55
+ },
+ {
+   "Name": "Kevin Thompson",
+   "Team": "NYY",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 185,
+   "Age": 27.45
+ },
+ {
+   "Name": "Jason Giambi",
+   "Team": "NYY",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 230,
+   "Age": 36.14
+ },
+ {
+   "Name": "Mike Mussina",
+   "Team": "NYY",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 185,
+   "Age": 38.23
+ },
+ {
+   "Name": "Carl Pavano",
+   "Team": "NYY",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 241,
+   "Age": 31.14
+ },
+ {
+   "Name": "Andy Pettitte",
+   "Team": "NYY",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 225,
+   "Age": 34.71
+ },
+ {
+   "Name": "Darrell Rasner",
+   "Team": "NYY",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 26.13
+ },
+ {
+   "Name": "Jeff Karstens",
+   "Team": "NYY",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 175,
+   "Age": 24.43
+ },
+ {
+   "Name": "Humberto Sanchez",
+   "Team": "NYY",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 230,
+   "Age": 23.76
+ },
+ {
+   "Name": "Chien-Ming Wang",
+   "Team": "NYY",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 26.92
+ },
+ {
+   "Name": "Sean Henn",
+   "Team": "NYY",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 215,
+   "Age": 25.85
+ },
+ {
+   "Name": "Scott Proctor",
+   "Team": "NYY",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 198,
+   "Age": 30.16
+ },
+ {
+   "Name": "Brian Bruney",
+   "Team": "NYY",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 226,
+   "Age": 25.03
+ },
+ {
+   "Name": "Chris Britton",
+   "Team": "NYY",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 278,
+   "Age": 24.21
+ },
+ {
+   "Name": "T.J. Beam",
+   "Team": "NYY",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 215,
+   "Age": 26.51
+ },
+ {
+   "Name": "Jose Veras",
+   "Team": "NYY",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 230,
+   "Age": 26.36
+ },
+ {
+   "Name": "Kyle Farnsworth",
+   "Team": "NYY",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 240,
+   "Age": 30.88
+ },
+ {
+   "Name": "Luis Vizcaino",
+   "Team": "NYY",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 184,
+   "Age": 32.57
+ },
+ {
+   "Name": "Mike Myers",
+   "Team": "NYY",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 219,
+   "Age": 37.68
+ },
+ {
+   "Name": "Mariano Rivera",
+   "Team": "NYY",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 170,
+   "Age": 37.25
+ },
+ {
+   "Name": "Ivan Rodriguez",
+   "Team": "DET",
+   "Position": "Catcher",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 218,
+   "Age": 35.25
+ },
+ {
+   "Name": "Vance Wilson",
+   "Team": "DET",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 33.95
+ },
+ {
+   "Name": "Sean Casey",
+   "Team": "DET",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 225,
+   "Age": 32.66
+ },
+ {
+   "Name": "Chris Shelton",
+   "Team": "DET",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 220,
+   "Age": 26.68
+ },
+ {
+   "Name": "Omar Infante",
+   "Team": "DET",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 176,
+   "Age": 25.18
+ },
+ {
+   "Name": "Placido Polanco",
+   "Team": "DET",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 190,
+   "Age": 31.39
+ },
+ {
+   "Name": "Neifi Perez",
+   "Team": "DET",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 197,
+   "Age": 33.74
+ },
+ {
+   "Name": "Carlos Guillen",
+   "Team": "DET",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 204,
+   "Age": 31.42
+ },
+ {
+   "Name": "Ramon Santiago",
+   "Team": "DET",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 167,
+   "Age": 27.5
+ },
+ {
+   "Name": "Tony Giarratano",
+   "Team": "DET",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 24.25
+ },
+ {
+   "Name": "Brandon Inge",
+   "Team": "DET",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 195,
+   "Age": 29.78
+ },
+ {
+   "Name": "Craig Monroe",
+   "Team": "DET",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 220,
+   "Age": 30
+ },
+ {
+   "Name": "Magglio Ordo?ez",
+   "Team": "DET",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 215,
+   "Age": 33.09
+ },
+ {
+   "Name": "Curtis Granderson",
+   "Team": "DET",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 185,
+   "Age": 25.96
+ },
+ {
+   "Name": "Brent Clevlen",
+   "Team": "DET",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 23.34
+ },
+ {
+   "Name": "Marcus Thames",
+   "Team": "DET",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 205,
+   "Age": 29.98
+ },
+ {
+   "Name": "Gary Sheffield",
+   "Team": "DET",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 205,
+   "Age": 38.28
+ },
+ {
+   "Name": "Mike Rabelo",
+   "Team": "DET",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 27.12
+ },
+ {
+   "Name": "Zach Miner",
+   "Team": "DET",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 24.97
+ },
+ {
+   "Name": "Jeremy Bonderman",
+   "Team": "DET",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 24.34
+ },
+ {
+   "Name": "Nate Robertson",
+   "Team": "DET",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 215,
+   "Age": 29.49
+ },
+ {
+   "Name": "Justin Verlander",
+   "Team": "DET",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 200,
+   "Age": 24.02
+ },
+ {
+   "Name": "Virgil Vasquez",
+   "Team": "DET",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 205,
+   "Age": 24.73
+ },
+ {
+   "Name": "Kenny Rogers",
+   "Team": "DET",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 211,
+   "Age": 42.3
+ },
+ {
+   "Name": "Mike Maroth",
+   "Team": "DET",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 190,
+   "Age": 29.54
+ },
+ {
+   "Name": "Fernando Rodney",
+   "Team": "DET",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 208,
+   "Age": 29.95
+ },
+ {
+   "Name": "Chad Durbin",
+   "Team": "DET",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 29.24
+ },
+ {
+   "Name": "Jason Grilli",
+   "Team": "DET",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 210,
+   "Age": 30.3
+ },
+ {
+   "Name": "Jose Mesa",
+   "Team": "DET",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 232,
+   "Age": 40.77
+ },
+ {
+   "Name": "Todd Jones",
+   "Team": "DET",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 230,
+   "Age": 38.85
+ },
+ {
+   "Name": "Joel Zumaya",
+   "Team": "DET",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 22.31
+ },
+ {
+   "Name": "Jordan Tata",
+   "Team": "DET",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 220,
+   "Age": 25.44
+ },
+ {
+   "Name": "Andrew Miller",
+   "Team": "DET",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 210,
+   "Age": 21.78
+ },
+ {
+   "Name": "Yorman Bazardo",
+   "Team": "DET",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 202,
+   "Age": 22.64
+ },
+ {
+   "Name": "Wilfredo Ledezma",
+   "Team": "DET",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 212,
+   "Age": 26.11
+ },
+ {
+   "Name": "Roman Colon",
+   "Team": "DET",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 225,
+   "Age": 27.55
+ },
+ {
+   "Name": "Edward Campusano",
+   "Team": "DET",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 170,
+   "Age": 24.63
+ },
+ {
+   "Name": "Rene Rivera",
+   "Team": "SEA",
+   "Position": "Catcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 190,
+   "Age": 23.58
+ },
+ {
+   "Name": "Kenji Johjima",
+   "Team": "SEA",
+   "Position": "Catcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 200,
+   "Age": 30.73
+ },
+ {
+   "Name": "Richie Sexson",
+   "Team": "SEA",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 80,
+   "Body - Weight(lbs)": 237,
+   "Age": 32.17
+ },
+ {
+   "Name": "Ben Broussard",
+   "Team": "SEA",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 30.43
+ },
+ {
+   "Name": "Jose Lopez",
+   "Team": "SEA",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 170,
+   "Age": 23.27
+ },
+ {
+   "Name": "Jose Vidro",
+   "Team": "SEA",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 193,
+   "Age": 32.51
+ },
+ {
+   "Name": "Yuniesky Betancourt",
+   "Team": "SEA",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.08
+ },
+ {
+   "Name": "Oswaldo Navarro",
+   "Team": "SEA",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 150,
+   "Age": 22.41
+ },
+ {
+   "Name": "Adrian Beltre",
+   "Team": "SEA",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 220,
+   "Age": 27.9
+ },
+ {
+   "Name": "Raul Ibanez",
+   "Team": "SEA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 34.74
+ },
+ {
+   "Name": "Jose Guillen",
+   "Team": "SEA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 30.79
+ },
+ {
+   "Name": "Jeremy Reed",
+   "Team": "SEA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 25.71
+ },
+ {
+   "Name": "Willie Bloomquist",
+   "Team": "SEA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 185,
+   "Age": 29.26
+ },
+ {
+   "Name": "Adam Jones",
+   "Team": "SEA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 21.58
+ },
+ {
+   "Name": "Ichiro Suzuki",
+   "Team": "SEA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 172,
+   "Age": 33.36
+ },
+ {
+   "Name": "Mike Morse",
+   "Team": "SEA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 220,
+   "Age": 24.94
+ },
+ {
+   "Name": "Felix Hernandez",
+   "Team": "SEA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 225,
+   "Age": 20.9
+ },
+ {
+   "Name": "Ryan Feierabend",
+   "Team": "SEA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 190,
+   "Age": 21.52
+ },
+ {
+   "Name": "Sean White",
+   "Team": "SEA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 195,
+   "Age": 25.85
+ },
+ {
+   "Name": "Horacio Ramirez",
+   "Team": "SEA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 219,
+   "Age": 27.27
+ },
+ {
+   "Name": "Cha Baek",
+   "Team": "SEA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 190,
+   "Age": 26.75
+ },
+ {
+   "Name": "Miguel Batista",
+   "Team": "SEA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 197,
+   "Age": 36.03
+ },
+ {
+   "Name": "Jeff Weaver",
+   "Team": "SEA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 200,
+   "Age": 30.52
+ },
+ {
+   "Name": "Jarrod Washburn",
+   "Team": "SEA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 195,
+   "Age": 32.55
+ },
+ {
+   "Name": "George Sherrill",
+   "Team": "SEA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 210,
+   "Age": 29.86
+ },
+ {
+   "Name": "Julio Mateo",
+   "Team": "SEA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 177,
+   "Age": 29.58
+ },
+ {
+   "Name": "J.J. Putz",
+   "Team": "SEA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 220,
+   "Age": 30.02
+ },
+ {
+   "Name": "Chris Reitsma",
+   "Team": "SEA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 235,
+   "Age": 29.16
+ },
+ {
+   "Name": "Cesar Jimenez",
+   "Team": "SEA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 180,
+   "Age": 22.3
+ },
+ {
+   "Name": "Eric O'Flaherty",
+   "Team": "SEA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 195,
+   "Age": 22.06
+ },
+ {
+   "Name": "Jon Huber",
+   "Team": "SEA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 195,
+   "Age": 25.65
+ },
+ {
+   "Name": "Jake Woods",
+   "Team": "SEA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.49
+ },
+ {
+   "Name": "Sean Green",
+   "Team": "SEA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 230,
+   "Age": 27.86
+ },
+ {
+   "Name": "Mark Lowe",
+   "Team": "SEA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 190,
+   "Age": 23.73
+ },
+ {
+   "Name": "Josh Paul",
+   "Team": "TB",
+   "Position": "Catcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 31.78
+ },
+ {
+   "Name": "Dioner Navarro",
+   "Team": "TB",
+   "Position": "Catcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 190,
+   "Age": 23.06
+ },
+ {
+   "Name": "Shawn Riggans",
+   "Team": "TB",
+   "Position": "Catcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 26.6
+ },
+ {
+   "Name": "Ty Wigginton",
+   "Team": "TB",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 200,
+   "Age": 29.39
+ },
+ {
+   "Name": "Brendan Harris",
+   "Team": "TB",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 26.51
+ },
+ {
+   "Name": "Jorge Cantu",
+   "Team": "TB",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 184,
+   "Age": 25.08
+ },
+ {
+   "Name": "Ben Zobrist",
+   "Team": "TB",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.76
+ },
+ {
+   "Name": "B.J. Upton",
+   "Team": "TB",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 180,
+   "Age": 22.52
+ },
+ {
+   "Name": "Carl Crawford",
+   "Team": "TB",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 219,
+   "Age": 25.57
+ },
+ {
+   "Name": "Rocco Baldelli",
+   "Team": "TB",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 187,
+   "Age": 25.43
+ },
+ {
+   "Name": "Greg Norton",
+   "Team": "TB",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 34.65
+ },
+ {
+   "Name": "Elijah Dukes",
+   "Team": "TB",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 22.68
+ },
+ {
+   "Name": "Delmon Young",
+   "Team": "TB",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 205,
+   "Age": 21.46
+ },
+ {
+   "Name": "Jonny Gomes",
+   "Team": "TB",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 205,
+   "Age": 26.27
+ },
+ {
+   "Name": "Edwin Jackson",
+   "Team": "TB",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 190,
+   "Age": 23.47
+ },
+ {
+   "Name": "Scott Kazmir",
+   "Team": "TB",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 170,
+   "Age": 23.1
+ },
+ {
+   "Name": "Casey Fossum",
+   "Team": "TB",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 160,
+   "Age": 29.14
+ },
+ {
+   "Name": "Jae Seo",
+   "Team": "TB",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 215,
+   "Age": 29.77
+ },
+ {
+   "Name": "J.P. Howell",
+   "Team": "TB",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 175,
+   "Age": 23.85
+ },
+ {
+   "Name": "Tim Corcoran",
+   "Team": "TB",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 205,
+   "Age": 28.88
+ },
+ {
+   "Name": "Jason Hammel",
+   "Team": "TB",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 200,
+   "Age": 24.49
+ },
+ {
+   "Name": "James Shields",
+   "Team": "TB",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 214,
+   "Age": 25.19
+ },
+ {
+   "Name": "Brian Stokes",
+   "Team": "TB",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 27.48
+ },
+ {
+   "Name": "Juan Salas",
+   "Team": "TB",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 28.31
+ },
+ {
+   "Name": "Jeff Ridgway",
+   "Team": "TB",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.54
+ },
+ {
+   "Name": "Ruddy Lugo",
+   "Team": "TB",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 205,
+   "Age": 26.77
+ },
+ {
+   "Name": "Jae-Kuk Ryu",
+   "Team": "TB",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 23.75
+ },
+ {
+   "Name": "Chad Orvella",
+   "Team": "TB",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 26.41
+ },
+ {
+   "Name": "Dan Miceli",
+   "Team": "TB",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 215,
+   "Age": 36.47
+ },
+ {
+   "Name": "Seth McClung",
+   "Team": "TB",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 235,
+   "Age": 26.06
+ },
+ {
+   "Name": "Jon Switzer",
+   "Team": "TB",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 191,
+   "Age": 27.55
+ },
+ {
+   "Name": "Shawn Camp",
+   "Team": "TB",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 31.28
+ },
+ {
+   "Name": "Scott Dohmann",
+   "Team": "TB",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 181,
+   "Age": 29.04
+ },
+ {
+   "Name": "Jason LaRue",
+   "Team": "KC",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 200,
+   "Age": 32.95
+ },
+ {
+   "Name": "John Buck",
+   "Team": "KC",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 26.65
+ },
+ {
+   "Name": "Ryan Shealy",
+   "Team": "KC",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 240,
+   "Age": 27.5
+ },
+ {
+   "Name": "Ross Gload",
+   "Team": "KC",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 30.9
+ },
+ {
+   "Name": "Esteban German",
+   "Team": "KC",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 165,
+   "Age": 29.09
+ },
+ {
+   "Name": "Mark Grudzielanek",
+   "Team": "KC",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 36.67
+ },
+ {
+   "Name": "Angel Sanchez",
+   "Team": "KC",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 185,
+   "Age": 23.44
+ },
+ {
+   "Name": "Angel Berroa",
+   "Team": "KC",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 175,
+   "Age": 29.09
+ },
+ {
+   "Name": "Andres Blanco",
+   "Team": "KC",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 155,
+   "Age": 22.89
+ },
+ {
+   "Name": "Mark Teahen",
+   "Team": "KC",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 25.48
+ },
+ {
+   "Name": "Joey Gathright",
+   "Team": "KC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 170,
+   "Age": 25.84
+ },
+ {
+   "Name": "David DeJesus",
+   "Team": "KC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 175,
+   "Age": 27.2
+ },
+ {
+   "Name": "Shane Costa",
+   "Team": "KC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 220,
+   "Age": 25.22
+ },
+ {
+   "Name": "Mitch Maier",
+   "Team": "KC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 24.67
+ },
+ {
+   "Name": "Reggie Sanders",
+   "Team": "KC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 205,
+   "Age": 39.25
+ },
+ {
+   "Name": "Emil Brown",
+   "Team": "KC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 32.17
+ },
+ {
+   "Name": "Mike Sweeney",
+   "Team": "KC",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 225,
+   "Age": 33.61
+ },
+ {
+   "Name": "John Bale",
+   "Team": "KC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 205,
+   "Age": 32.77
+ },
+ {
+   "Name": "Luke Hudson",
+   "Team": "KC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 195,
+   "Age": 29.83
+ },
+ {
+   "Name": "Scott Elarton",
+   "Team": "KC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 80,
+   "Body - Weight(lbs)": 240,
+   "Age": 31.02
+ },
+ {
+   "Name": "Odalis Perez",
+   "Team": "KC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 150,
+   "Age": 29.73
+ },
+ {
+   "Name": "Gil Meche",
+   "Team": "KC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 28.48
+ },
+ {
+   "Name": "Neal Musser",
+   "Team": "KC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 215,
+   "Age": 26.51
+ },
+ {
+   "Name": "Brian Bannister",
+   "Team": "KC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 202,
+   "Age": 26
+ },
+ {
+   "Name": "Zack Greinke",
+   "Team": "KC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 23.36
+ },
+ {
+   "Name": "Jorge De La Rosa",
+   "Team": "KC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.9
+ },
+ {
+   "Name": "Todd Wellemeyer",
+   "Team": "KC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 205,
+   "Age": 28.5
+ },
+ {
+   "Name": "Jimmy Gobble",
+   "Team": "KC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.62
+ },
+ {
+   "Name": "Joel Peralta",
+   "Team": "KC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 160,
+   "Age": 30.94
+ },
+ {
+   "Name": "Ryan Braun",
+   "Team": "KC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 215,
+   "Age": 26.59
+ },
+ {
+   "Name": "Joakim Soria",
+   "Team": "KC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 185,
+   "Age": 22.78
+ },
+ {
+   "Name": "Ken Ray",
+   "Team": "KC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 32.26
+ },
+ {
+   "Name": "David Riske",
+   "Team": "KC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 30.35
+ },
+ {
+   "Name": "Octavio Dotel",
+   "Team": "KC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 210,
+   "Age": 33.26
+ },
+ {
+   "Name": "Joe Nelson",
+   "Team": "KC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 185,
+   "Age": 32.35
+ },
+ {
+   "Name": "Gerald Laird",
+   "Team": "TEX",
+   "Position": "Catcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 27.3
+ },
+ {
+   "Name": "Miguel Ojeda",
+   "Team": "TEX",
+   "Position": "Catcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 32.08
+ },
+ {
+   "Name": "Guillermo Quiroz",
+   "Team": "TEX",
+   "Position": "Catcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 202,
+   "Age": 25.25
+ },
+ {
+   "Name": "Chris Stewart",
+   "Team": "TEX",
+   "Position": "Catcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 205,
+   "Age": 25.03
+ },
+ {
+   "Name": "Mark Teixeira",
+   "Team": "TEX",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 26.89
+ },
+ {
+   "Name": "Ian Kinsler",
+   "Team": "TEX",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 175,
+   "Age": 24.69
+ },
+ {
+   "Name": "Joaquin Arias",
+   "Team": "TEX",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 160,
+   "Age": 22.44
+ },
+ {
+   "Name": "Michael Young",
+   "Team": "TEX",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 30.36
+ },
+ {
+   "Name": "Hank Blalock",
+   "Team": "TEX",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 26.27
+ },
+ {
+   "Name": "Marlon Byrd",
+   "Team": "TEX",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 229,
+   "Age": 29.5
+ },
+ {
+   "Name": "Brad Wilkerson",
+   "Team": "TEX",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 206,
+   "Age": 29.75
+ },
+ {
+   "Name": "Sammy Sosa",
+   "Team": "TEX",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 220,
+   "Age": 38.3
+ },
+ {
+   "Name": "Kenny Lofton",
+   "Team": "TEX",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 39.75
+ },
+ {
+   "Name": "Frank Catalanotto",
+   "Team": "TEX",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 195,
+   "Age": 32.84
+ },
+ {
+   "Name": "Nelson Cruz",
+   "Team": "TEX",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 175,
+   "Age": 26.66
+ },
+ {
+   "Name": "Jason Botts",
+   "Team": "TEX",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 250,
+   "Age": 26.6
+ },
+ {
+   "Name": "Robinson Tejeda",
+   "Team": "TEX",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 188,
+   "Age": 24.94
+ },
+ {
+   "Name": "John Rheinecker",
+   "Team": "TEX",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 230,
+   "Age": 27.76
+ },
+ {
+   "Name": "Edinson Volquez",
+   "Team": "TEX",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 23.66
+ },
+ {
+   "Name": "A.J. Murray",
+   "Team": "TEX",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 24.96
+ },
+ {
+   "Name": "Brandon McCarthy",
+   "Team": "TEX",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 190,
+   "Age": 23.65
+ },
+ {
+   "Name": "Vicente Padilla",
+   "Team": "TEX",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 219,
+   "Age": 29.42
+ },
+ {
+   "Name": "Kevin Millwood",
+   "Team": "TEX",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 235,
+   "Age": 32.18
+ },
+ {
+   "Name": "John Koronka",
+   "Team": "TEX",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.66
+ },
+ {
+   "Name": "Frank Francisco",
+   "Team": "TEX",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 27.47
+ },
+ {
+   "Name": "Francisco Cruceta",
+   "Team": "TEX",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 25.66
+ },
+ {
+   "Name": "Akinori Otsuka",
+   "Team": "TEX",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 200,
+   "Age": 35.13
+ },
+ {
+   "Name": "Eric Gagne",
+   "Team": "TEX",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 234,
+   "Age": 31.15
+ },
+ {
+   "Name": "Ron Mahay",
+   "Team": "TEX",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 185,
+   "Age": 35.67
+ },
+ {
+   "Name": "Joaquin Benoit",
+   "Team": "TEX",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 29.6
+ },
+ {
+   "Name": "Rick Bauer",
+   "Team": "TEX",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 223,
+   "Age": 30.14
+ },
+ {
+   "Name": "Josh Rupe",
+   "Team": "TEX",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 24.53
+ },
+ {
+   "Name": "Wes Littleton",
+   "Team": "TEX",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 24.49
+ },
+ {
+   "Name": "C.J. Wilson",
+   "Team": "TEX",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 26.28
+ },
+ {
+   "Name": "Scott Feldman",
+   "Team": "TEX",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 210,
+   "Age": 24.06
+ },
+ {
+   "Name": "Gregg Zaun",
+   "Team": "TOR",
+   "Position": "Catcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 190,
+   "Age": 35.88
+ },
+ {
+   "Name": "Jason Phillips",
+   "Team": "TOR",
+   "Position": "Catcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 177,
+   "Age": 30.42
+ },
+ {
+   "Name": "Lyle Overbay",
+   "Team": "TOR",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 227,
+   "Age": 30.09
+ },
+ {
+   "Name": "Russ Adams",
+   "Team": "TOR",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.5
+ },
+ {
+   "Name": "Aaron Hill",
+   "Team": "TOR",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 195,
+   "Age": 24.94
+ },
+ {
+   "Name": "Jason Smith",
+   "Team": "TOR",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 199,
+   "Age": 29.6
+ },
+ {
+   "Name": "John McDonald",
+   "Team": "TOR",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 175,
+   "Age": 32.43
+ },
+ {
+   "Name": "Royce Clayton",
+   "Team": "TOR",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 37.16
+ },
+ {
+   "Name": "Troy Glaus",
+   "Team": "TOR",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 240,
+   "Age": 30.57
+ },
+ {
+   "Name": "John Hattig",
+   "Team": "TOR",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 27.01
+ },
+ {
+   "Name": "Reed Johnson",
+   "Team": "TOR",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 180,
+   "Age": 30.23
+ },
+ {
+   "Name": "Alex Rios",
+   "Team": "TOR",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 194,
+   "Age": 26.03
+ },
+ {
+   "Name": "Vernon Wells",
+   "Team": "TOR",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 225,
+   "Age": 28.23
+ },
+ {
+   "Name": "Frank Thomas",
+   "Team": "TOR",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 275,
+   "Age": 38.76
+ },
+ {
+   "Name": "Adam Lind",
+   "Team": "TOR",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 195,
+   "Age": 23.62
+ },
+ {
+   "Name": "Shaun Marcum",
+   "Team": "TOR",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 25.21
+ },
+ {
+   "Name": "Casey Janssen",
+   "Team": "TOR",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 205,
+   "Age": 25.45
+ },
+ {
+   "Name": "Gustavo Chacin",
+   "Team": "TOR",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 193,
+   "Age": 26.24
+ },
+ {
+   "Name": "A.J. Burnett",
+   "Team": "TOR",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 230,
+   "Age": 30.15
+ },
+ {
+   "Name": "Roy Halladay",
+   "Team": "TOR",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 230,
+   "Age": 29.8
+ },
+ {
+   "Name": "John Thomson",
+   "Team": "TOR",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 33.41
+ },
+ {
+   "Name": "Tomo Ohka",
+   "Team": "TOR",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 30.95
+ },
+ {
+   "Name": "B.J. Ryan",
+   "Team": "TOR",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 249,
+   "Age": 31.17
+ },
+ {
+   "Name": "Scott Downs",
+   "Team": "TOR",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 30.95
+ },
+ {
+   "Name": "Brian Tallet",
+   "Team": "TOR",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 208,
+   "Age": 29.44
+ },
+ {
+   "Name": "Matt Roney",
+   "Team": "TOR",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 245,
+   "Age": 27.14
+ },
+ {
+   "Name": "Tracy Thorpe",
+   "Team": "TOR",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 250,
+   "Age": 26.21
+ },
+ {
+   "Name": "Jean Machi",
+   "Team": "TOR",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 160,
+   "Age": 24.08
+ },
+ {
+   "Name": "Brandon League",
+   "Team": "TOR",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 192,
+   "Age": 23.96
+ },
+ {
+   "Name": "Dustin McGowan",
+   "Team": "TOR",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 24.94
+ },
+ {
+   "Name": "Jason Frasor",
+   "Team": "TOR",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 170,
+   "Age": 29.56
+ },
+ {
+   "Name": "Francisco Rosario",
+   "Team": "TOR",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 197,
+   "Age": 26.42
+ },
+ {
+   "Name": "Davis Romero",
+   "Team": "TOR",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 155,
+   "Age": 23.92
+ },
+ {
+   "Name": "Jeremy Accardo",
+   "Team": "TOR",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.23
+ },
+ {
+   "Name": "Mike Redmond",
+   "Team": "MIN",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 200,
+   "Age": 35.82
+ },
+ {
+   "Name": "Joe Mauer",
+   "Team": "MIN",
+   "Position": "Catcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 220,
+   "Age": 23.87
+ },
+ {
+   "Name": "Chris Heintz",
+   "Team": "MIN",
+   "Position": "Catcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 210,
+   "Age": 32.57
+ },
+ {
+   "Name": "Justin Morneau",
+   "Team": "MIN",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 228,
+   "Age": 25.79
+ },
+ {
+   "Name": "Luis Castillo",
+   "Team": "MIN",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 31.47
+ },
+ {
+   "Name": "Alexi Casilla",
+   "Team": "MIN",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 160,
+   "Age": 22.61
+ },
+ {
+   "Name": "Alejandro Machado",
+   "Team": "MIN",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 184,
+   "Age": 24.85
+ },
+ {
+   "Name": "Jason Bartlett",
+   "Team": "MIN",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 27.33
+ },
+ {
+   "Name": "Luis Rodriguez",
+   "Team": "MIN",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.67
+ },
+ {
+   "Name": "Jeff Cirillo",
+   "Team": "MIN",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 37.43
+ },
+ {
+   "Name": "Nick Punto",
+   "Team": "MIN",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 176,
+   "Age": 29.31
+ },
+ {
+   "Name": "Jason Tyner",
+   "Team": "MIN",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 160,
+   "Age": 29.85
+ },
+ {
+   "Name": "Michael Cuddyer",
+   "Team": "MIN",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 222,
+   "Age": 27.93
+ },
+ {
+   "Name": "Torii Hunter",
+   "Team": "MIN",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 211,
+   "Age": 31.62
+ },
+ {
+   "Name": "Lew Ford",
+   "Team": "MIN",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 195,
+   "Age": 30.55
+ },
+ {
+   "Name": "Jason Kubel",
+   "Team": "MIN",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 200,
+   "Age": 24.77
+ },
+ {
+   "Name": "Josh Rabe",
+   "Team": "MIN",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 28.38
+ },
+ {
+   "Name": "Rondell White",
+   "Team": "MIN",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 225,
+   "Age": 35.02
+ },
+ {
+   "Name": "Ramon Ortiz",
+   "Team": "MIN",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 175,
+   "Age": 33.77
+ },
+ {
+   "Name": "Johan Santana",
+   "Team": "MIN",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 206,
+   "Age": 27.97
+ },
+ {
+   "Name": "Carlos Silva",
+   "Team": "MIN",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 240,
+   "Age": 27.85
+ },
+ {
+   "Name": "Matt Garza",
+   "Team": "MIN",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 185,
+   "Age": 23.26
+ },
+ {
+   "Name": "Boof Bonser",
+   "Team": "MIN",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 260,
+   "Age": 25.38
+ },
+ {
+   "Name": "Francisco Liriano",
+   "Team": "MIN",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 185,
+   "Age": 23.35
+ },
+ {
+   "Name": "Scott Baker",
+   "Team": "MIN",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 221,
+   "Age": 25.45
+ },
+ {
+   "Name": "Pat Neshek",
+   "Team": "MIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 205,
+   "Age": 26.49
+ },
+ {
+   "Name": "Glen Perkins",
+   "Team": "MIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 200,
+   "Age": 24
+ },
+ {
+   "Name": "Julio DePaula",
+   "Team": "MIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 170,
+   "Age": 24.16
+ },
+ {
+   "Name": "Juan Rincon",
+   "Team": "MIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 201,
+   "Age": 28.1
+ },
+ {
+   "Name": "Jesse Crain",
+   "Team": "MIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 205,
+   "Age": 25.65
+ },
+ {
+   "Name": "Matt Guerrier",
+   "Team": "MIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 185,
+   "Age": 28.58
+ },
+ {
+   "Name": "Joe Nathan",
+   "Team": "MIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 205,
+   "Age": 32.27
+ },
+ {
+   "Name": "Dennys Reyes",
+   "Team": "MIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 245,
+   "Age": 29.86
+ },
+ {
+   "Name": "Brayan Pe?a",
+   "Team": "ATL",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 220,
+   "Age": 25.14
+ },
+ {
+   "Name": "Brian McCann",
+   "Team": "ATL",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 23.03
+ },
+ {
+   "Name": "Craig Wilson",
+   "Team": "ATL",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 30.25
+ },
+ {
+   "Name": "Chris Woodward",
+   "Team": "ATL",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 30.67
+ },
+ {
+   "Name": "Pete Orr",
+   "Team": "ATL",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 175,
+   "Age": 27.73
+ },
+ {
+   "Name": "Martin Prado",
+   "Team": "ATL",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 170,
+   "Age": 23.34
+ },
+ {
+   "Name": "Tony Pe?a",
+   "Team": "ATL",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 25.94
+ },
+ {
+   "Name": "Edgar Renteria",
+   "Team": "ATL",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 31.56
+ },
+ {
+   "Name": "Chipper Jones",
+   "Team": "ATL",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 210,
+   "Age": 34.85
+ },
+ {
+   "Name": "Willy Aybar",
+   "Team": "ATL",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 175,
+   "Age": 23.98
+ },
+ {
+   "Name": "Jeff Francoeur",
+   "Team": "ATL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 220,
+   "Age": 23.14
+ },
+ {
+   "Name": "Matt Diaz",
+   "Team": "ATL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 206,
+   "Age": 28.99
+ },
+ {
+   "Name": "Kelly Johnson",
+   "Team": "ATL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 25.02
+ },
+ {
+   "Name": "Andruw Jones",
+   "Team": "ATL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 210,
+   "Age": 29.85
+ },
+ {
+   "Name": "Ryan Langerhans",
+   "Team": "ATL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 195,
+   "Age": 27.03
+ },
+ {
+   "Name": "Scott Thorman",
+   "Team": "ATL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.15
+ },
+ {
+   "Name": "T.J. Bohn",
+   "Team": "ATL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 200,
+   "Age": 27.12
+ },
+ {
+   "Name": "Tim Hudson",
+   "Team": "ATL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 164,
+   "Age": 31.63
+ },
+ {
+   "Name": "Jonathan Johnson",
+   "Team": "ATL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 32.62
+ },
+ {
+   "Name": "John Smoltz",
+   "Team": "ATL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 39.79
+ },
+ {
+   "Name": "Mike Hampton",
+   "Team": "ATL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 195,
+   "Age": 34.47
+ },
+ {
+   "Name": "Kyle Davies",
+   "Team": "ATL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 205,
+   "Age": 23.47
+ },
+ {
+   "Name": "Chuck James",
+   "Team": "ATL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 170,
+   "Age": 25.31
+ },
+ {
+   "Name": "Phil Stockman",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 80,
+   "Body - Weight(lbs)": 240,
+   "Age": 27.1
+ },
+ {
+   "Name": "Macay McBride",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 210,
+   "Age": 24.35
+ },
+ {
+   "Name": "Joey Devine",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 195,
+   "Age": 23.45
+ },
+ {
+   "Name": "Peter Moylan",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 28.24
+ },
+ {
+   "Name": "Mike Gonzalez",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 205,
+   "Age": 28.77
+ },
+ {
+   "Name": "Lance Cormier",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 192,
+   "Age": 26.53
+ },
+ {
+   "Name": "Blaine Boyer",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.64
+ },
+ {
+   "Name": "Manny Acosta",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 170,
+   "Age": 25.83
+ },
+ {
+   "Name": "Bob Wickman",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 240,
+   "Age": 38.06
+ },
+ {
+   "Name": "Tanyon Sturtze",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 200,
+   "Age": 36.38
+ },
+ {
+   "Name": "Oscar Villarreal",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 205,
+   "Age": 25.27
+ },
+ {
+   "Name": "Rafael Soriano",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 175,
+   "Age": 27.2
+ },
+ {
+   "Name": "Chad Paronto",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 250,
+   "Age": 31.59
+ },
+ {
+   "Name": "Tyler Yates",
+   "Team": "ATL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 220,
+   "Age": 29.56
+ },
+ {
+   "Name": "Henry Blanco",
+   "Team": "CHC",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 224,
+   "Age": 35.5
+ },
+ {
+   "Name": "Michael Barrett",
+   "Team": "CHC",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 30.35
+ },
+ {
+   "Name": "Geovany Soto",
+   "Team": "CHC",
+   "Position": "Catcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 195,
+   "Age": 24.11
+ },
+ {
+   "Name": "Scott Moore",
+   "Team": "CHC",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 23.29
+ },
+ {
+   "Name": "Derrek Lee",
+   "Team": "CHC",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 245,
+   "Age": 31.48
+ },
+ {
+   "Name": "Ryan Theriot",
+   "Team": "CHC",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 175,
+   "Age": 27.23
+ },
+ {
+   "Name": "Ronny Cedeno",
+   "Team": "CHC",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 24.07
+ },
+ {
+   "Name": "Aramis Ramirez",
+   "Team": "CHC",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 215,
+   "Age": 28.68
+ },
+ {
+   "Name": "Cesar Izturis",
+   "Team": "CHC",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 175,
+   "Age": 27.05
+ },
+ {
+   "Name": "Alfonso Soriano",
+   "Team": "CHC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 31.15
+ },
+ {
+   "Name": "Jacque Jones",
+   "Team": "CHC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 195,
+   "Age": 31.85
+ },
+ {
+   "Name": "Daryle Ward",
+   "Team": "CHC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 230,
+   "Age": 31.68
+ },
+ {
+   "Name": "Cliff Floyd",
+   "Team": "CHC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 230,
+   "Age": 34.23
+ },
+ {
+   "Name": "Mark DeRosa",
+   "Team": "CHC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 205,
+   "Age": 32.01
+ },
+ {
+   "Name": "Matt Murton",
+   "Team": "CHC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 215,
+   "Age": 25.41
+ },
+ {
+   "Name": "Buck Coats",
+   "Team": "CHC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 195,
+   "Age": 24.73
+ },
+ {
+   "Name": "Angel Pagan",
+   "Team": "CHC",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 25.66
+ },
+ {
+   "Name": "Sean Marshall",
+   "Team": "CHC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 205,
+   "Age": 24.5
+ },
+ {
+   "Name": "Carlos Marmol",
+   "Team": "CHC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 24.38
+ },
+ {
+   "Name": "Ryan O'Malley",
+   "Team": "CHC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 26.89
+ },
+ {
+   "Name": "Juan Mateo",
+   "Team": "CHC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 24.2
+ },
+ {
+   "Name": "Rich Hill",
+   "Team": "CHC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 190,
+   "Age": 26.97
+ },
+ {
+   "Name": "Angel Guzman",
+   "Team": "CHC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.21
+ },
+ {
+   "Name": "Wade Miller",
+   "Team": "CHC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 30.46
+ },
+ {
+   "Name": "Jason Marquis",
+   "Team": "CHC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 210,
+   "Age": 28.53
+ },
+ {
+   "Name": "Carlos Zambrano",
+   "Team": "CHC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 255,
+   "Age": 25.75
+ },
+ {
+   "Name": "Ted Lilly",
+   "Team": "CHC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 31.15
+ },
+ {
+   "Name": "Mark Prior",
+   "Team": "CHC",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 230,
+   "Age": 26.48
+ },
+ {
+   "Name": "Neal Cotts",
+   "Team": "CHC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 26.93
+ },
+ {
+   "Name": "Will Ohman",
+   "Team": "CHC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 205,
+   "Age": 29.55
+ },
+ {
+   "Name": "Scott Eyre",
+   "Team": "CHC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 210,
+   "Age": 34.75
+ },
+ {
+   "Name": "Kerry Wood",
+   "Team": "CHC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 225,
+   "Age": 29.71
+ },
+ {
+   "Name": "Ryan Dempster",
+   "Team": "CHC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 215,
+   "Age": 29.83
+ },
+ {
+   "Name": "Bob Howry",
+   "Team": "CHC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 220,
+   "Age": 33.57
+ },
+ {
+   "Name": "Mike Wuertz",
+   "Team": "CHC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 205,
+   "Age": 28.21
+ },
+ {
+   "Name": "Roberto Novoa",
+   "Team": "CHC",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 200,
+   "Age": 27.54
+ },
+ {
+   "Name": "Chris Snyder",
+   "Team": "ARZ",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 26.05
+ },
+ {
+   "Name": "Miguel Montero",
+   "Team": "ARZ",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 197,
+   "Age": 23.64
+ },
+ {
+   "Name": "Conor Jackson",
+   "Team": "ARZ",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 225,
+   "Age": 24.82
+ },
+ {
+   "Name": "Robby Hammock",
+   "Team": "ARZ",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 187,
+   "Age": 29.8
+ },
+ {
+   "Name": "Tony Clark",
+   "Team": "ARZ",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 245,
+   "Age": 34.71
+ },
+ {
+   "Name": "Orlando Hudson",
+   "Team": "ARZ",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 29.22
+ },
+ {
+   "Name": "Stephen Drew",
+   "Team": "ARZ",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 23.96
+ },
+ {
+   "Name": "Alberto Callaspo",
+   "Team": "ARZ",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 175,
+   "Age": 23.87
+ },
+ {
+   "Name": "Chad Tracy",
+   "Team": "ARZ",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 26.77
+ },
+ {
+   "Name": "Chris Young",
+   "Team": "ARZ",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 23.49
+ },
+ {
+   "Name": "Scott Hairston",
+   "Team": "ARZ",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 188,
+   "Age": 26.77
+ },
+ {
+   "Name": "Carlos Quentin",
+   "Team": "ARZ",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 225,
+   "Age": 24.51
+ },
+ {
+   "Name": "Jeff DaVanon",
+   "Team": "ARZ",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 200,
+   "Age": 33.23
+ },
+ {
+   "Name": "Eric Byrnes",
+   "Team": "ARZ",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 31.04
+ },
+ {
+   "Name": "Livan Hernandez",
+   "Team": "ARZ",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 245,
+   "Age": 32.02
+ },
+ {
+   "Name": "Doug Davis",
+   "Team": "ARZ",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 213,
+   "Age": 31.44
+ },
+ {
+   "Name": "Randy Johnson",
+   "Team": "ARZ",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 82,
+   "Body - Weight(lbs)": 231,
+   "Age": 43.47
+ },
+ {
+   "Name": "Juan Cruz",
+   "Team": "ARZ",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 165,
+   "Age": 28.38
+ },
+ {
+   "Name": "Brandon Webb",
+   "Team": "ARZ",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 228,
+   "Age": 27.81
+ },
+ {
+   "Name": "Enrique Gonzalez",
+   "Team": "ARZ",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 210,
+   "Age": 24.57
+ },
+ {
+   "Name": "Dana Eveland",
+   "Team": "ARZ",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 250,
+   "Age": 23.34
+ },
+ {
+   "Name": "Brandon Medders",
+   "Team": "ARZ",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 191,
+   "Age": 27.09
+ },
+ {
+   "Name": "Tony Pe?a",
+   "Team": "ARZ",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.14
+ },
+ {
+   "Name": "Doug Slaten",
+   "Team": "ARZ",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 200,
+   "Age": 27.07
+ },
+ {
+   "Name": "Edgar Gonzalez",
+   "Team": "ARZ",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 215,
+   "Age": 24.02
+ },
+ {
+   "Name": "Jose Valverde",
+   "Team": "ARZ",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 254,
+   "Age": 27.6
+ },
+ {
+   "Name": "Jorge Julio",
+   "Team": "ARZ",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 232,
+   "Age": 27.99
+ },
+ {
+   "Name": "Brandon Lyon",
+   "Team": "ARZ",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 27.56
+ },
+ {
+   "Name": "Miguel Olivo",
+   "Team": "FLA",
+   "Position": "Catcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 215,
+   "Age": 28.63
+ },
+ {
+   "Name": "Matt Treanor",
+   "Team": "FLA",
+   "Position": "Catcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 30.99
+ },
+ {
+   "Name": "Mike Jacobs",
+   "Team": "FLA",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.33
+ },
+ {
+   "Name": "Dan Uggla",
+   "Team": "FLA",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 200,
+   "Age": 26.97
+ },
+ {
+   "Name": "Robert Andino",
+   "Team": "FLA",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 170,
+   "Age": 22.85
+ },
+ {
+   "Name": "Hanley Ramirez",
+   "Team": "FLA",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 195,
+   "Age": 23.19
+ },
+ {
+   "Name": "Miguel Cabrera",
+   "Team": "FLA",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 23.87
+ },
+ {
+   "Name": "Aaron Boone",
+   "Team": "FLA",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 33.98
+ },
+ {
+   "Name": "Joe Borchard",
+   "Team": "FLA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 220,
+   "Age": 28.26
+ },
+ {
+   "Name": "Alfredo Amezaga",
+   "Team": "FLA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 165,
+   "Age": 29.12
+ },
+ {
+   "Name": "Cody Ross",
+   "Team": "FLA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.18
+ },
+ {
+   "Name": "Josh Willingham",
+   "Team": "FLA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 28.03
+ },
+ {
+   "Name": "Jeremy Hermida",
+   "Team": "FLA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 200,
+   "Age": 23.08
+ },
+ {
+   "Name": "Eric Reed",
+   "Team": "FLA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 170,
+   "Age": 26.24
+ },
+ {
+   "Name": "Reggi Abercrombie",
+   "Team": "FLA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 224,
+   "Age": 26.63
+ },
+ {
+   "Name": "Ricky Nolasco",
+   "Team": "FLA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 24.21
+ },
+ {
+   "Name": "Anibal Sanchez",
+   "Team": "FLA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 23.01
+ },
+ {
+   "Name": "Scott Olsen",
+   "Team": "FLA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 198,
+   "Age": 23.13
+ },
+ {
+   "Name": "Josh Johnson",
+   "Team": "FLA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 240,
+   "Age": 23.08
+ },
+ {
+   "Name": "Dontrelle Willis",
+   "Team": "FLA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 239,
+   "Age": 25.13
+ },
+ {
+   "Name": "Logan Kensing",
+   "Team": "FLA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 185,
+   "Age": 24.66
+ },
+ {
+   "Name": "Sergio Mitre",
+   "Team": "FLA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 210,
+   "Age": 26.03
+ },
+ {
+   "Name": "Kevin Gregg",
+   "Team": "FLA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 220,
+   "Age": 28.7
+ },
+ {
+   "Name": "Travis Bowyer",
+   "Team": "FLA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.57
+ },
+ {
+   "Name": "Renyel Pinto",
+   "Team": "FLA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 195,
+   "Age": 24.65
+ },
+ {
+   "Name": "Randy Messenger",
+   "Team": "FLA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 220,
+   "Age": 25.55
+ },
+ {
+   "Name": "Yusmeiro Petit",
+   "Team": "FLA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 230,
+   "Age": 22.27
+ },
+ {
+   "Name": "Carlos Martinez",
+   "Team": "FLA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 170,
+   "Age": 24.76
+ },
+ {
+   "Name": "Taylor Tankersley",
+   "Team": "FLA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 220,
+   "Age": 23.98
+ },
+ {
+   "Name": "Henry Owens",
+   "Team": "FLA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 230,
+   "Age": 27.85
+ },
+ {
+   "Name": "Jose Garcia",
+   "Team": "FLA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 165,
+   "Age": 22.14
+ },
+ {
+   "Name": "Matt Lindstrom",
+   "Team": "FLA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 205,
+   "Age": 27.05
+ },
+ {
+   "Name": "Javier Valentin",
+   "Team": "CIN",
+   "Position": "Catcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 192,
+   "Age": 31.45
+ },
+ {
+   "Name": "Chad Moeller",
+   "Team": "CIN",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 32.03
+ },
+ {
+   "Name": "David Ross",
+   "Team": "CIN",
+   "Position": "Catcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 205,
+   "Age": 29.95
+ },
+ {
+   "Name": "Joey Votto",
+   "Team": "CIN",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 23.47
+ },
+ {
+   "Name": "Scott Hatteberg",
+   "Team": "CIN",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 210,
+   "Age": 37.21
+ },
+ {
+   "Name": "Brandon Phillips",
+   "Team": "CIN",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 185,
+   "Age": 25.67
+ },
+ {
+   "Name": "Juan Castro",
+   "Team": "CIN",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 195,
+   "Age": 34.69
+ },
+ {
+   "Name": "Alex Gonzalez",
+   "Team": "CIN",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 202,
+   "Age": 30.04
+ },
+ {
+   "Name": "Mark Bellhorn",
+   "Team": "CIN",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 205,
+   "Age": 32.52
+ },
+ {
+   "Name": "Edwin Encarnacion",
+   "Team": "CIN",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 195,
+   "Age": 24.15
+ },
+ {
+   "Name": "Jeff Keppinger",
+   "Team": "CIN",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.86
+ },
+ {
+   "Name": "Norris Hopper",
+   "Team": "CIN",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 200,
+   "Age": 27.94
+ },
+ {
+   "Name": "Chris Denorfia",
+   "Team": "CIN",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 185,
+   "Age": 26.63
+ },
+ {
+   "Name": "Adam Dunn",
+   "Team": "CIN",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 240,
+   "Age": 27.31
+ },
+ {
+   "Name": "Bubba Crosby",
+   "Team": "CIN",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 185,
+   "Age": 30.55
+ },
+ {
+   "Name": "Jeff Conine",
+   "Team": "CIN",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 220,
+   "Age": 40.68
+ },
+ {
+   "Name": "Ken Griffey Jr.",
+   "Team": "CIN",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 205,
+   "Age": 37.27
+ },
+ {
+   "Name": "Josh Hamilton",
+   "Team": "CIN",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 205,
+   "Age": 25.78
+ },
+ {
+   "Name": "Ryan Freel",
+   "Team": "CIN",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 180,
+   "Age": 30.98
+ },
+ {
+   "Name": "Kyle Lohse",
+   "Team": "CIN",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 201,
+   "Age": 28.41
+ },
+ {
+   "Name": "Bronson Arroyo",
+   "Team": "CIN",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 190,
+   "Age": 30.01
+ },
+ {
+   "Name": "Eric Milton",
+   "Team": "CIN",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 208,
+   "Age": 31.57
+ },
+ {
+   "Name": "Aaron Harang",
+   "Team": "CIN",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 240,
+   "Age": 28.81
+ },
+ {
+   "Name": "Kirk Saarloos",
+   "Team": "CIN",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": null,
+   "Age": 27.77
+ },
+ {
+   "Name": "Elizardo Ramirez",
+   "Team": "CIN",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 24.09
+ },
+ {
+   "Name": "Todd Coffey",
+   "Team": "CIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 230,
+   "Age": 26.47
+ },
+ {
+   "Name": "Brian Shackelford",
+   "Team": "CIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 195,
+   "Age": 30.5
+ },
+ {
+   "Name": "Bill Bray",
+   "Team": "CIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 215,
+   "Age": 23.74
+ },
+ {
+   "Name": "Bobby Livingston",
+   "Team": "CIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 190,
+   "Age": 24.49
+ },
+ {
+   "Name": "Matt Belisle",
+   "Team": "CIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 195,
+   "Age": 26.73
+ },
+ {
+   "Name": "Gary Majewski",
+   "Team": "CIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 215,
+   "Age": 27.01
+ },
+ {
+   "Name": "Mike Stanton",
+   "Team": "CIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 215,
+   "Age": 39.75
+ },
+ {
+   "Name": "Brad Salmon",
+   "Team": "CIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 220,
+   "Age": 27.16
+ },
+ {
+   "Name": "Jared Burton",
+   "Team": "CIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 220,
+   "Age": 25.74
+ },
+ {
+   "Name": "David Weathers",
+   "Team": "CIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 230,
+   "Age": 37.43
+ },
+ {
+   "Name": "Rheal Cormier",
+   "Team": "CIN",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 195,
+   "Age": 39.85
+ },
+ {
+   "Name": "Yorvit Torrealba",
+   "Team": "COL",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 28.62
+ },
+ {
+   "Name": "Chris Iannetta",
+   "Team": "COL",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 195,
+   "Age": 23.9
+ },
+ {
+   "Name": "Alvin Colina",
+   "Team": "COL",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 209,
+   "Age": 25.18
+ },
+ {
+   "Name": "Todd Helton",
+   "Team": "COL",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 204,
+   "Age": 33.53
+ },
+ {
+   "Name": "Jamey Carroll",
+   "Team": "COL",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 170,
+   "Age": 33.03
+ },
+ {
+   "Name": "Kaz Matsui",
+   "Team": "COL",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 185,
+   "Age": 31.35
+ },
+ {
+   "Name": "Troy Tulowitzki",
+   "Team": "COL",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 205,
+   "Age": 22.39
+ },
+ {
+   "Name": "Clint Barmes",
+   "Team": "COL",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 175,
+   "Age": 27.99
+ },
+ {
+   "Name": "Garrett Atkins",
+   "Team": "COL",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 27.22
+ },
+ {
+   "Name": "Ryan Spilborghs",
+   "Team": "COL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 27.49
+ },
+ {
+   "Name": "Cory Sullivan",
+   "Team": "COL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 27.53
+ },
+ {
+   "Name": "Jeff Salazar",
+   "Team": "COL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.26
+ },
+ {
+   "Name": "Willy Taveras",
+   "Team": "COL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 160,
+   "Age": 25.18
+ },
+ {
+   "Name": "Matt Holliday",
+   "Team": "COL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 235,
+   "Age": 27.12
+ },
+ {
+   "Name": "Brad Hawpe",
+   "Team": "COL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 27.69
+ },
+ {
+   "Name": "Jeff Baker",
+   "Team": "COL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 25.69
+ },
+ {
+   "Name": "Javy Lopez",
+   "Team": "COL",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 224,
+   "Age": 36.32
+ },
+ {
+   "Name": "Byung-Hyun Kim",
+   "Team": "COL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 180,
+   "Age": 28.11
+ },
+ {
+   "Name": "Rodrigo Lopez",
+   "Team": "COL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 31.21
+ },
+ {
+   "Name": "Brian Lawrence",
+   "Team": "COL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 197,
+   "Age": 30.8
+ },
+ {
+   "Name": "Josh Fogg",
+   "Team": "COL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 203,
+   "Age": 30.21
+ },
+ {
+   "Name": "Aaron Cook",
+   "Team": "COL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 205,
+   "Age": 28.06
+ },
+ {
+   "Name": "Denny Bautista",
+   "Team": "COL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 170,
+   "Age": 26.52
+ },
+ {
+   "Name": "Ubaldo Jimenez",
+   "Team": "COL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 200,
+   "Age": 23.1
+ },
+ {
+   "Name": "Jason Hirsh",
+   "Team": "COL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 80,
+   "Body - Weight(lbs)": 250,
+   "Age": 25.02
+ },
+ {
+   "Name": "Jeff Francis",
+   "Team": "COL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 200,
+   "Age": 26.14
+ },
+ {
+   "Name": "Taylor Buchholz",
+   "Team": "COL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 220,
+   "Age": 25.38
+ },
+ {
+   "Name": "Ryan Speier",
+   "Team": "COL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 200,
+   "Age": 27.6
+ },
+ {
+   "Name": "Ramon Ramirez",
+   "Team": "COL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.5
+ },
+ {
+   "Name": "Manny Corpas",
+   "Team": "COL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 170,
+   "Age": 24.24
+ },
+ {
+   "Name": "Juan Morillo",
+   "Team": "COL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 23.32
+ },
+ {
+   "Name": "Brian Fuentes",
+   "Team": "COL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 220,
+   "Age": 31.56
+ },
+ {
+   "Name": "LaTroy Hawkins",
+   "Team": "COL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 215,
+   "Age": 34.19
+ },
+ {
+   "Name": "Tom Martin",
+   "Team": "COL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 206,
+   "Age": 36.78
+ },
+ {
+   "Name": "Jeremy Affeldt",
+   "Team": "COL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 215,
+   "Age": 27.73
+ },
+ {
+   "Name": "Paul Lo Duca",
+   "Team": "NYM",
+   "Position": "Catcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 185,
+   "Age": 34.88
+ },
+ {
+   "Name": "Ramon Castro",
+   "Team": "NYM",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 235,
+   "Age": 31
+ },
+ {
+   "Name": "Julio Franco",
+   "Team": "NYM",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 188,
+   "Age": 48.52
+ },
+ {
+   "Name": "Carlos Delgado",
+   "Team": "NYM",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 230,
+   "Age": 34.68
+ },
+ {
+   "Name": "Jose Valentin",
+   "Team": "NYM",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 195,
+   "Age": 37.38
+ },
+ {
+   "Name": "Anderson Hernandez",
+   "Team": "NYM",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 168,
+   "Age": 24.33
+ },
+ {
+   "Name": "Damion Easley",
+   "Team": "NYM",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 37.3
+ },
+ {
+   "Name": "Jose Reyes",
+   "Team": "NYM",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 160,
+   "Age": 23.72
+ },
+ {
+   "Name": "David Wright",
+   "Team": "NYM",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 200,
+   "Age": 24.19
+ },
+ {
+   "Name": "Ben Johnson",
+   "Team": "NYM",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.7
+ },
+ {
+   "Name": "Endy Chavez",
+   "Team": "NYM",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 189,
+   "Age": 29.06
+ },
+ {
+   "Name": "David Newhan",
+   "Team": "NYM",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 180,
+   "Age": 33.48
+ },
+ {
+   "Name": "Carlos Beltran",
+   "Team": "NYM",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 29.85
+ },
+ {
+   "Name": "Shawn Green",
+   "Team": "NYM",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 200,
+   "Age": 34.3
+ },
+ {
+   "Name": "Moises Alou",
+   "Team": "NYM",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 40.66
+ },
+ {
+   "Name": "Lastings Milledge",
+   "Team": "NYM",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 187,
+   "Age": 21.9
+ },
+ {
+   "Name": "Alay Soler",
+   "Team": "NYM",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 240,
+   "Age": 27.39
+ },
+ {
+   "Name": "Mike Pelfrey",
+   "Team": "NYM",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 190,
+   "Age": 23.13
+ },
+ {
+   "Name": "Pedro Martinez",
+   "Team": "NYM",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 180,
+   "Age": 35.35
+ },
+ {
+   "Name": "Tom Glavine",
+   "Team": "NYM",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 40.93
+ },
+ {
+   "Name": "Chan Ho Park",
+   "Team": "NYM",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 33.67
+ },
+ {
+   "Name": "Orlando Hernandez",
+   "Team": "NYM",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 37.39
+ },
+ {
+   "Name": "Dave Williams",
+   "Team": "NYM",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 219,
+   "Age": 27.97
+ },
+ {
+   "Name": "Oliver Perez",
+   "Team": "NYM",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.54
+ },
+ {
+   "Name": "John Maine",
+   "Team": "NYM",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 193,
+   "Age": 25.81
+ },
+ {
+   "Name": "Marcos Carvajal",
+   "Team": "NYM",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 175,
+   "Age": 22.53
+ },
+ {
+   "Name": "Ambiorix Burgos",
+   "Team": "NYM",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 22.86
+ },
+ {
+   "Name": "Jason Vargas",
+   "Team": "NYM",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 215,
+   "Age": 24.07
+ },
+ {
+   "Name": "Jon Adkins",
+   "Team": "NYM",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 210,
+   "Age": 29.5
+ },
+ {
+   "Name": "Juan Padilla",
+   "Team": "NYM",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 200,
+   "Age": 30.03
+ },
+ {
+   "Name": "Duaner Sanchez",
+   "Team": "NYM",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 190,
+   "Age": 27.38
+ },
+ {
+   "Name": "Pedro Feliciano",
+   "Team": "NYM",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 185,
+   "Age": 30.51
+ },
+ {
+   "Name": "Aaron Heilman",
+   "Team": "NYM",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 220,
+   "Age": 28.3
+ },
+ {
+   "Name": "Jorge Sosa",
+   "Team": "NYM",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 170,
+   "Age": 29.84
+ },
+ {
+   "Name": "Scott Schoeneweis",
+   "Team": "NYM",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 195,
+   "Age": 33.41
+ },
+ {
+   "Name": "Guillermo Mota",
+   "Team": "NYM",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 205,
+   "Age": 33.6
+ },
+ {
+   "Name": "Billy Wagner",
+   "Team": "NYM",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 195,
+   "Age": 35.6
+ },
+ {
+   "Name": "Philip Humber",
+   "Team": "NYM",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 210,
+   "Age": 24.19
+ },
+ {
+   "Name": "Brad Ausmus",
+   "Team": "HOU",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 37.88
+ },
+ {
+   "Name": "Humberto Quintero",
+   "Team": "HOU",
+   "Position": "Catcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 27.56
+ },
+ {
+   "Name": "Hector Gimenez",
+   "Team": "HOU",
+   "Position": "Catcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 180,
+   "Age": 24.42
+ },
+ {
+   "Name": "Lance Berkman",
+   "Team": "HOU",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 220,
+   "Age": 31.05
+ },
+ {
+   "Name": "Mike Lamb",
+   "Team": "HOU",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 31.56
+ },
+ {
+   "Name": "Mark Loretta",
+   "Team": "HOU",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 186,
+   "Age": 35.55
+ },
+ {
+   "Name": "Craig Biggio",
+   "Team": "HOU",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 185,
+   "Age": 41.21
+ },
+ {
+   "Name": "Brooks Conrad",
+   "Team": "HOU",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 27.12
+ },
+ {
+   "Name": "Chris Burke",
+   "Team": "HOU",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 180,
+   "Age": 26.97
+ },
+ {
+   "Name": "Eric Bruntlett",
+   "Team": "HOU",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 190,
+   "Age": 28.92
+ },
+ {
+   "Name": "Adam Everett",
+   "Team": "HOU",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 170,
+   "Age": 30.06
+ },
+ {
+   "Name": "Morgan Ensberg",
+   "Team": "HOU",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 31.51
+ },
+ {
+   "Name": "Carlos Lee",
+   "Team": "HOU",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 240,
+   "Age": 30.69
+ },
+ {
+   "Name": "Jason Lane",
+   "Team": "HOU",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 30.19
+ },
+ {
+   "Name": "Orlando Palmeiro",
+   "Team": "HOU",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 180,
+   "Age": 38.11
+ },
+ {
+   "Name": "Luke Scott",
+   "Team": "HOU",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 210,
+   "Age": 28.68
+ },
+ {
+   "Name": "Charlton Jimerson",
+   "Team": "HOU",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 27.44
+ },
+ {
+   "Name": "Fernando Nieve",
+   "Team": "HOU",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 195,
+   "Age": 24.63
+ },
+ {
+   "Name": "Wandy Rodriguez",
+   "Team": "HOU",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 160,
+   "Age": 28.11
+ },
+ {
+   "Name": "Brandon Backe",
+   "Team": "HOU",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 28.9
+ },
+ {
+   "Name": "Matt Albers",
+   "Team": "HOU",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 205,
+   "Age": 24.11
+ },
+ {
+   "Name": "Woody Williams",
+   "Team": "HOU",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 200,
+   "Age": 40.53
+ },
+ {
+   "Name": "Roy Oswalt",
+   "Team": "HOU",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 29.5
+ },
+ {
+   "Name": "Jason Jennings",
+   "Team": "HOU",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 245,
+   "Age": 28.62
+ },
+ {
+   "Name": "Miguel Asencio",
+   "Team": "HOU",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 26.42
+ },
+ {
+   "Name": "Brad Lidge",
+   "Team": "HOU",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 210,
+   "Age": 30.18
+ },
+ {
+   "Name": "Trever Miller",
+   "Team": "HOU",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 33.75
+ },
+ {
+   "Name": "David Borkowski",
+   "Team": "HOU",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 30.06
+ },
+ {
+   "Name": "Dan Wheeler",
+   "Team": "HOU",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 222,
+   "Age": 29.22
+ },
+ {
+   "Name": "Paul Estrada",
+   "Team": "HOU",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 215,
+   "Age": 24.47
+ },
+ {
+   "Name": "Lincoln Holdzkom",
+   "Team": "HOU",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 240,
+   "Age": 24.94
+ },
+ {
+   "Name": "Chris Sampson",
+   "Team": "HOU",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 170,
+   "Age": 28.77
+ },
+ {
+   "Name": "Chad Qualls",
+   "Team": "HOU",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 220,
+   "Age": 28.54
+ },
+ {
+   "Name": "Ezequiel Astacio",
+   "Team": "HOU",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 156,
+   "Age": 27.32
+ },
+ {
+   "Name": "Mike Lieberthal",
+   "Team": "LA",
+   "Position": "Catcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 190,
+   "Age": 35.12
+ },
+ {
+   "Name": "Russell Martin",
+   "Team": "LA",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 202,
+   "Age": 24.04
+ },
+ {
+   "Name": "Olmedo Saenz",
+   "Team": "LA",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 221,
+   "Age": 36.39
+ },
+ {
+   "Name": "James Loney",
+   "Team": "LA",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 22.81
+ },
+ {
+   "Name": "Nomar Garciaparra",
+   "Team": "LA",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 190,
+   "Age": 33.6
+ },
+ {
+   "Name": "Jeff Kent",
+   "Team": "LA",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 210,
+   "Age": 38.98
+ },
+ {
+   "Name": "Ramon Martinez",
+   "Team": "LA",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 34.39
+ },
+ {
+   "Name": "Marlon Anderson",
+   "Team": "LA",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 200,
+   "Age": 33.15
+ },
+ {
+   "Name": "Rafael Furcal",
+   "Team": "LA",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 165,
+   "Age": 29.35
+ },
+ {
+   "Name": "Wilson Betemit",
+   "Team": "LA",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 190,
+   "Age": 26.59
+ },
+ {
+   "Name": "Andy LaRoche",
+   "Team": "LA",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 185,
+   "Age": 23.46
+ },
+ {
+   "Name": "Matt Kemp",
+   "Team": "LA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 230,
+   "Age": 22.43
+ },
+ {
+   "Name": "Andre Ethier",
+   "Team": "LA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 208,
+   "Age": 24.89
+ },
+ {
+   "Name": "Delwyn Young",
+   "Team": "LA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 68,
+   "Body - Weight(lbs)": 209,
+   "Age": 24.67
+ },
+ {
+   "Name": "Jason Repko",
+   "Team": "LA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 175,
+   "Age": 26.17
+ },
+ {
+   "Name": "Juan Pierre",
+   "Team": "LA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 29.54
+ },
+ {
+   "Name": "Luis Gonzalez",
+   "Team": "LA",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 39.49
+ },
+ {
+   "Name": "Jason Schmidt",
+   "Team": "LA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 205,
+   "Age": 34.08
+ },
+ {
+   "Name": "Randy Wolf",
+   "Team": "LA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 200,
+   "Age": 30.52
+ },
+ {
+   "Name": "Brad Penny",
+   "Team": "LA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 250,
+   "Age": 28.77
+ },
+ {
+   "Name": "Derek Lowe",
+   "Team": "LA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 210,
+   "Age": 33.75
+ },
+ {
+   "Name": "Mark Hendrickson",
+   "Team": "LA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 81,
+   "Body - Weight(lbs)": 230,
+   "Age": 32.69
+ },
+ {
+   "Name": "Chad Billingsley",
+   "Team": "LA",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 244,
+   "Age": 22.59
+ },
+ {
+   "Name": "Takashi Saito",
+   "Team": "LA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 202,
+   "Age": 37.04
+ },
+ {
+   "Name": "Jonathan Broxton",
+   "Team": "LA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 240,
+   "Age": 22.7
+ },
+ {
+   "Name": "Hong-Chih Kuo",
+   "Team": "LA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.6
+ },
+ {
+   "Name": "Eric Stults",
+   "Team": "LA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 215,
+   "Age": 27.23
+ },
+ {
+   "Name": "Chin-Hui Tsao",
+   "Team": "LA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 177,
+   "Age": 25.74
+ },
+ {
+   "Name": "Tim Hamulack",
+   "Team": "LA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 210,
+   "Age": 30.29
+ },
+ {
+   "Name": "Yhency Brazoban",
+   "Team": "LA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 170,
+   "Age": 26.72
+ },
+ {
+   "Name": "Brett Tomko",
+   "Team": "LA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 215,
+   "Age": 33.9
+ },
+ {
+   "Name": "Joe Beimel",
+   "Team": "LA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 217,
+   "Age": 29.86
+ },
+ {
+   "Name": "Elmer Dessens",
+   "Team": "LA",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 198,
+   "Age": 36.13
+ },
+ {
+   "Name": "Ryan Budde",
+   "Team": "PHI",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 200,
+   "Age": 27.54
+ },
+ {
+   "Name": "Rod Barajas",
+   "Team": "PHI",
+   "Position": "Catcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 31.49
+ },
+ {
+   "Name": "Carlos Ruiz",
+   "Team": "PHI",
+   "Position": "Catcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 170,
+   "Age": 28.1
+ },
+ {
+   "Name": "Chris Coste",
+   "Team": "PHI",
+   "Position": "Catcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 34.07
+ },
+ {
+   "Name": "Ryan Howard",
+   "Team": "PHI",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 230,
+   "Age": 27.28
+ },
+ {
+   "Name": "Wes Helms",
+   "Team": "PHI",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 231,
+   "Age": 30.8
+ },
+ {
+   "Name": "Chase Utley",
+   "Team": "PHI",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 183,
+   "Age": 28.2
+ },
+ {
+   "Name": "Danny Sandoval",
+   "Team": "PHI",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 192,
+   "Age": 27.9
+ },
+ {
+   "Name": "Jimmy Rollins",
+   "Team": "PHI",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 68,
+   "Body - Weight(lbs)": 167,
+   "Age": 28.26
+ },
+ {
+   "Name": "Abraham Nu?ez",
+   "Team": "PHI",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 30.96
+ },
+ {
+   "Name": "Michael Bourn",
+   "Team": "PHI",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 180,
+   "Age": 24.18
+ },
+ {
+   "Name": "Chris Roberson",
+   "Team": "PHI",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 27.52
+ },
+ {
+   "Name": "Jayson Werth",
+   "Team": "PHI",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 215,
+   "Age": 27.78
+ },
+ {
+   "Name": "Shane Victorino",
+   "Team": "PHI",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 160,
+   "Age": 26.25
+ },
+ {
+   "Name": "Aaron Rowand",
+   "Team": "PHI",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 205,
+   "Age": 29.5
+ },
+ {
+   "Name": "Pat Burrell",
+   "Team": "PHI",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 223,
+   "Age": 30.39
+ },
+ {
+   "Name": "Greg Dobbs",
+   "Team": "PHI",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 205,
+   "Age": 28.66
+ },
+ {
+   "Name": "Cole Hamels",
+   "Team": "PHI",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 175,
+   "Age": 23.18
+ },
+ {
+   "Name": "Alfredo Simon",
+   "Team": "PHI",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 170,
+   "Age": 25.81
+ },
+ {
+   "Name": "Scott Mathieson",
+   "Team": "PHI",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 190,
+   "Age": 23.01
+ },
+ {
+   "Name": "Freddy Garcia",
+   "Team": "PHI",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 240,
+   "Age": 31.72
+ },
+ {
+   "Name": "Jamie Moyer",
+   "Team": "PHI",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 175,
+   "Age": 44.28
+ },
+ {
+   "Name": "Jon Lieber",
+   "Team": "PHI",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 230,
+   "Age": 36.91
+ },
+ {
+   "Name": "Brett Myers",
+   "Team": "PHI",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 223,
+   "Age": 26.54
+ },
+ {
+   "Name": "Adam Eaton",
+   "Team": "PHI",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 196,
+   "Age": 29.27
+ },
+ {
+   "Name": "Geoff Geary",
+   "Team": "PHI",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 167,
+   "Age": 30.51
+ },
+ {
+   "Name": "Clay Condrey",
+   "Team": "PHI",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 195,
+   "Age": 31.28
+ },
+ {
+   "Name": "Ryan Madson",
+   "Team": "PHI",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 190,
+   "Age": 26.51
+ },
+ {
+   "Name": "Antonio Alfonseca",
+   "Team": "PHI",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 250,
+   "Age": 34.87
+ },
+ {
+   "Name": "Tom Gordon",
+   "Team": "PHI",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 190,
+   "Age": 39.28
+ },
+ {
+   "Name": "Brian Sanches",
+   "Team": "PHI",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 190,
+   "Age": 28.56
+ },
+ {
+   "Name": "Jim Ed Warden",
+   "Team": "PHI",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 190,
+   "Age": 27.82
+ },
+ {
+   "Name": "Anderson Garcia",
+   "Team": "PHI",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 170,
+   "Age": 25.94
+ },
+ {
+   "Name": "Eude Brito",
+   "Team": "PHI",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 160,
+   "Age": 28.53
+ },
+ {
+   "Name": "Fabio Castro",
+   "Team": "PHI",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 68,
+   "Body - Weight(lbs)": 150,
+   "Age": 22.11
+ },
+ {
+   "Name": "Matt Smith",
+   "Team": "PHI",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 225,
+   "Age": 27.71
+ },
+ {
+   "Name": "Damian Miller",
+   "Team": "MLW",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 37.38
+ },
+ {
+   "Name": "Johnny Estrada",
+   "Team": "MLW",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 209,
+   "Age": 30.67
+ },
+ {
+   "Name": "Mike Rivera",
+   "Team": "MLW",
+   "Position": "Catcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 210,
+   "Age": 30.48
+ },
+ {
+   "Name": "J.D. Closser",
+   "Team": "MLW",
+   "Position": "Catcher",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 176,
+   "Age": 27.12
+ },
+ {
+   "Name": "Prince Fielder",
+   "Team": "MLW",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 260,
+   "Age": 22.81
+ },
+ {
+   "Name": "Rickie Weeks",
+   "Team": "MLW",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 195,
+   "Age": 24.46
+ },
+ {
+   "Name": "Tony Graffanino",
+   "Team": "MLW",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 34.73
+ },
+ {
+   "Name": "Craig Counsell",
+   "Team": "MLW",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 184,
+   "Age": 36.53
+ },
+ {
+   "Name": "J.J. Hardy",
+   "Team": "MLW",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 24.53
+ },
+ {
+   "Name": "Bill Hall",
+   "Team": "MLW",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 195,
+   "Age": 27.17
+ },
+ {
+   "Name": "Vinny Rottino",
+   "Team": "MLW",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 195,
+   "Age": 26.9
+ },
+ {
+   "Name": "Corey Koskie",
+   "Team": "MLW",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 219,
+   "Age": 33.67
+ },
+ {
+   "Name": "Kevin Mench",
+   "Team": "MLW",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 225,
+   "Age": 29.14
+ },
+ {
+   "Name": "Geoff Jenkins",
+   "Team": "MLW",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 212,
+   "Age": 32.61
+ },
+ {
+   "Name": "Brady Clark",
+   "Team": "MLW",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 202,
+   "Age": 33.87
+ },
+ {
+   "Name": "Tony Gwynn Jr.",
+   "Team": "MLW",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 24.41
+ },
+ {
+   "Name": "Corey Hart",
+   "Team": "MLW",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 200,
+   "Age": 24.94
+ },
+ {
+   "Name": "Gabe Gross",
+   "Team": "MLW",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 209,
+   "Age": 27.36
+ },
+ {
+   "Name": "Laynce Nix",
+   "Team": "MLW",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 200,
+   "Age": 26.33
+ },
+ {
+   "Name": "Drew Anderson",
+   "Team": "MLW",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 195,
+   "Age": 25.72
+ },
+ {
+   "Name": "Claudio Vargas",
+   "Team": "MLW",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 228,
+   "Age": 28.7
+ },
+ {
+   "Name": "Chris Capuano",
+   "Team": "MLW",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 28.53
+ },
+ {
+   "Name": "Ben Hendrickson",
+   "Team": "MLW",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 190,
+   "Age": 26.07
+ },
+ {
+   "Name": "Dave Bush",
+   "Team": "MLW",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 212,
+   "Age": 27.31
+ },
+ {
+   "Name": "Carlos Villanueva",
+   "Team": "MLW",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 23.26
+ },
+ {
+   "Name": "Ben Sheets",
+   "Team": "MLW",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 218,
+   "Age": 28.62
+ },
+ {
+   "Name": "Jeff Suppan",
+   "Team": "MLW",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 32.16
+ },
+ {
+   "Name": "Brian Shouse",
+   "Team": "MLW",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 38.43
+ },
+ {
+   "Name": "Francisco Cordero",
+   "Team": "MLW",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 235,
+   "Age": 31.81
+ },
+ {
+   "Name": "Derrick Turnbow",
+   "Team": "MLW",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 29.1
+ },
+ {
+   "Name": "Matt Wise",
+   "Team": "MLW",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 200,
+   "Age": 31.28
+ },
+ {
+   "Name": "Grant Balfour",
+   "Team": "MLW",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 188,
+   "Age": 29.17
+ },
+ {
+   "Name": "Dennis Sarfate",
+   "Team": "MLW",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 210,
+   "Age": 25.89
+ },
+ {
+   "Name": "Jose Capellan",
+   "Team": "MLW",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 235,
+   "Age": 26.13
+ },
+ {
+   "Name": "Greg Aquino",
+   "Team": "MLW",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 188,
+   "Age": 29.13
+ },
+ {
+   "Name": "Josh Bard",
+   "Team": "SD",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 215,
+   "Age": 28.92
+ },
+ {
+   "Name": "Rob Bowen",
+   "Team": "SD",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 216,
+   "Age": 26.01
+ },
+ {
+   "Name": "Adrian Gonzalez",
+   "Team": "SD",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 24.81
+ },
+ {
+   "Name": "Marcus Giles",
+   "Team": "SD",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 68,
+   "Body - Weight(lbs)": 180,
+   "Age": 28.79
+ },
+ {
+   "Name": "Todd Walker",
+   "Team": "SD",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 33.77
+ },
+ {
+   "Name": "Geoff Blum",
+   "Team": "SD",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 33.85
+ },
+ {
+   "Name": "Khalil Greene",
+   "Team": "SD",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 210,
+   "Age": 27.36
+ },
+ {
+   "Name": "Paul McAnulty",
+   "Team": "SD",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 220,
+   "Age": 26.01
+ },
+ {
+   "Name": "Terrmel Sledge",
+   "Team": "SD",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 29.95
+ },
+ {
+   "Name": "Jack Cust",
+   "Team": "SD",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 231,
+   "Age": 28.12
+ },
+ {
+   "Name": "Jose Cruz Jr.",
+   "Team": "SD",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 210,
+   "Age": 32.87
+ },
+ {
+   "Name": "Russell Branyan",
+   "Team": "SD",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 195,
+   "Age": 31.2
+ },
+ {
+   "Name": "Mike Cameron",
+   "Team": "SD",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 34.14
+ },
+ {
+   "Name": "Brian Giles",
+   "Team": "SD",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 205,
+   "Age": 36.11
+ },
+ {
+   "Name": "Kevin Kouzmanoff",
+   "Team": "SD",
+   "Position": "Designated Hitter",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.6
+ },
+ {
+   "Name": "Mike Thompson",
+   "Team": "SD",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 200,
+   "Age": 26.31
+ },
+ {
+   "Name": "Clay Hensley",
+   "Team": "SD",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 27.5
+ },
+ {
+   "Name": "Chris Young",
+   "Team": "SD",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 82,
+   "Body - Weight(lbs)": 250,
+   "Age": 27.77
+ },
+ {
+   "Name": "Greg Maddux",
+   "Team": "SD",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 185,
+   "Age": 40.88
+ },
+ {
+   "Name": "Jake Peavy",
+   "Team": "SD",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 25.75
+ },
+ {
+   "Name": "Scott Cassidy",
+   "Team": "SD",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 170,
+   "Age": 31.41
+ },
+ {
+   "Name": "Scott Strickland",
+   "Team": "SD",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 180,
+   "Age": 30.84
+ },
+ {
+   "Name": "Scott Linebrink",
+   "Team": "SD",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 208,
+   "Age": 30.57
+ },
+ {
+   "Name": "Doug Brocail",
+   "Team": "SD",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 235,
+   "Age": 39.79
+ },
+ {
+   "Name": "Trevor Hoffman",
+   "Team": "SD",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 215,
+   "Age": 39.38
+ },
+ {
+   "Name": "Heath Bell",
+   "Team": "SD",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 244,
+   "Age": 29.42
+ },
+ {
+   "Name": "Royce Ring",
+   "Team": "SD",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 220,
+   "Age": 26.19
+ },
+ {
+   "Name": "Cla Meredith",
+   "Team": "SD",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 185,
+   "Age": 23.74
+ },
+ {
+   "Name": "Andrew Brown",
+   "Team": "SD",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 230,
+   "Age": 26.03
+ },
+ {
+   "Name": "Mike Adams",
+   "Team": "SD",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 190,
+   "Age": 28.59
+ },
+ {
+   "Name": "Justin Hampson",
+   "Team": "SD",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 26.77
+ },
+ {
+   "Name": "Kevin Cameron",
+   "Team": "SD",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 27.21
+ },
+ {
+   "Name": "Ryan Ketchner",
+   "Team": "SD",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 24.87
+ },
+ {
+   "Name": "Brian Schneider",
+   "Team": "WAS",
+   "Position": "Catcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 196,
+   "Age": 30.26
+ },
+ {
+   "Name": "Jesus Flores",
+   "Team": "WAS",
+   "Position": "Catcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 180,
+   "Age": 22.34
+ },
+ {
+   "Name": "Larry Broadway",
+   "Team": "WAS",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 230,
+   "Age": 26.2
+ },
+ {
+   "Name": "Nick Johnson",
+   "Team": "WAS",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 224,
+   "Age": 28.45
+ },
+ {
+   "Name": "Bernie Castro",
+   "Team": "WAS",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 160,
+   "Age": 27.63
+ },
+ {
+   "Name": "Josh Wilson",
+   "Team": "WAS",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 178,
+   "Age": 25.93
+ },
+ {
+   "Name": "Cristian Guzman",
+   "Team": "WAS",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 205,
+   "Age": 28.94
+ },
+ {
+   "Name": "Felipe Lopez",
+   "Team": "WAS",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 185,
+   "Age": 26.8
+ },
+ {
+   "Name": "Ryan Zimmerman",
+   "Team": "WAS",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 22.42
+ },
+ {
+   "Name": "Nook Logan",
+   "Team": "WAS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 27.26
+ },
+ {
+   "Name": "Ryan Church",
+   "Team": "WAS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 28.38
+ },
+ {
+   "Name": "Kory Casto",
+   "Team": "WAS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.23
+ },
+ {
+   "Name": "Mike Restovich",
+   "Team": "WAS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 257,
+   "Age": 28.16
+ },
+ {
+   "Name": "Alex Escobar",
+   "Team": "WAS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 28.48
+ },
+ {
+   "Name": "Austin Kearns",
+   "Team": "WAS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 26.78
+ },
+ {
+   "Name": "Chris Snelling",
+   "Team": "WAS",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 165,
+   "Age": 25.24
+ },
+ {
+   "Name": "Billy Traber",
+   "Team": "WAS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 205,
+   "Age": 27.45
+ },
+ {
+   "Name": "Tim Redding",
+   "Team": "WAS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 200,
+   "Age": 29.05
+ },
+ {
+   "Name": "John Patterson",
+   "Team": "WAS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 208,
+   "Age": 29.08
+ },
+ {
+   "Name": "Shawn Hill",
+   "Team": "WAS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 185,
+   "Age": 25.84
+ },
+ {
+   "Name": "Joel Hanrahan",
+   "Team": "WAS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 215,
+   "Age": 25.4
+ },
+ {
+   "Name": "Mike O'Connor",
+   "Team": "WAS",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 170,
+   "Age": 26.54
+ },
+ {
+   "Name": "Emiliano Fruto",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 235,
+   "Age": 22.73
+ },
+ {
+   "Name": "Chris Schroder",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 28.53
+ },
+ {
+   "Name": "Brett Campbell",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 170,
+   "Age": 25.37
+ },
+ {
+   "Name": "Beltran Perez",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 25.35
+ },
+ {
+   "Name": "Levale Speigner",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 170,
+   "Age": 26.43
+ },
+ {
+   "Name": "Jason Bergmann",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.43
+ },
+ {
+   "Name": "Saul Rivera",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 150,
+   "Age": 29.23
+ },
+ {
+   "Name": "Chris Booker",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 230,
+   "Age": 30.22
+ },
+ {
+   "Name": "Micah Bowie",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 203,
+   "Age": 32.3
+ },
+ {
+   "Name": "Jon Rauch",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 83,
+   "Body - Weight(lbs)": 260,
+   "Age": 28.42
+ },
+ {
+   "Name": "Jerome Williams",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 246,
+   "Age": 25.24
+ },
+ {
+   "Name": "Luis Ayala",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 186,
+   "Age": 29.13
+ },
+ {
+   "Name": "Ryan Wagner",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 210,
+   "Age": 24.63
+ },
+ {
+   "Name": "Chad Cordero",
+   "Team": "WAS",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 198,
+   "Age": 24.95
+ },
+ {
+   "Name": "Humberto Cota",
+   "Team": "PIT",
+   "Position": "Catcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 210,
+   "Age": 28.06
+ },
+ {
+   "Name": "Ronny Paulino",
+   "Team": "PIT",
+   "Position": "Catcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 215,
+   "Age": 25.86
+ },
+ {
+   "Name": "Adam LaRoche",
+   "Team": "PIT",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 180,
+   "Age": 27.32
+ },
+ {
+   "Name": "Ryan Doumit",
+   "Team": "PIT",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.91
+ },
+ {
+   "Name": "Brad Eldred",
+   "Team": "PIT",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 245,
+   "Age": 26.63
+ },
+ {
+   "Name": "Jose Castillo",
+   "Team": "PIT",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.95
+ },
+ {
+   "Name": "Jack Wilson",
+   "Team": "PIT",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 192,
+   "Age": 29.17
+ },
+ {
+   "Name": "Freddy Sanchez",
+   "Team": "PIT",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 192,
+   "Age": 29.19
+ },
+ {
+   "Name": "Jason Bay",
+   "Team": "PIT",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 28.44
+ },
+ {
+   "Name": "Jose Bautista",
+   "Team": "PIT",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 192,
+   "Age": 26.36
+ },
+ {
+   "Name": "Xavier Nady",
+   "Team": "PIT",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 205,
+   "Age": 28.29
+ },
+ {
+   "Name": "Jody Gerut",
+   "Team": "PIT",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 190,
+   "Age": 29.45
+ },
+ {
+   "Name": "Nate McLouth",
+   "Team": "PIT",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 186,
+   "Age": 25.34
+ },
+ {
+   "Name": "Chris Duffy",
+   "Team": "PIT",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 170,
+   "Age": 26.86
+ },
+ {
+   "Name": "Rajai Davis",
+   "Team": "PIT",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 197,
+   "Age": 26.36
+ },
+ {
+   "Name": "Shane Youman",
+   "Team": "PIT",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 219,
+   "Age": 27.39
+ },
+ {
+   "Name": "Yoslan Herrera",
+   "Team": "PIT",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 25.84
+ },
+ {
+   "Name": "Josh Shortslef",
+   "Team": "PIT",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 220,
+   "Age": 25.08
+ },
+ {
+   "Name": "Zach Duke",
+   "Team": "PIT",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 207,
+   "Age": 23.87
+ },
+ {
+   "Name": "Paul Maholm",
+   "Team": "PIT",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 225,
+   "Age": 24.68
+ },
+ {
+   "Name": "Tom Gorzelanny",
+   "Team": "PIT",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 207,
+   "Age": 24.64
+ },
+ {
+   "Name": "Shawn Chacon",
+   "Team": "PIT",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 212,
+   "Age": 29.19
+ },
+ {
+   "Name": "Tony Armas Jr.",
+   "Team": "PIT",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 225,
+   "Age": 28.84
+ },
+ {
+   "Name": "Ian Snell",
+   "Team": "PIT",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 170,
+   "Age": 25.33
+ },
+ {
+   "Name": "Sean Burnett",
+   "Team": "PIT",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 190,
+   "Age": 24.45
+ },
+ {
+   "Name": "John Grabow",
+   "Team": "PIT",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 28.32
+ },
+ {
+   "Name": "Marty McLeary",
+   "Team": "PIT",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 230,
+   "Age": 32.34
+ },
+ {
+   "Name": "Salomon Torres",
+   "Team": "PIT",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 210,
+   "Age": 34.97
+ },
+ {
+   "Name": "Damaso Marte",
+   "Team": "PIT",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 32.04
+ },
+ {
+   "Name": "Matt Capps",
+   "Team": "PIT",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 238,
+   "Age": 23.49
+ },
+ {
+   "Name": "Josh Sharpless",
+   "Team": "PIT",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 234,
+   "Age": 26.09
+ },
+ {
+   "Name": "Bryan Bullington",
+   "Team": "PIT",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 222,
+   "Age": 26.41
+ },
+ {
+   "Name": "Jonah Bayliss",
+   "Team": "PIT",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 200,
+   "Age": 26.55
+ },
+ {
+   "Name": "Brian Rogers",
+   "Team": "PIT",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 190,
+   "Age": 24.62
+ },
+ {
+   "Name": "Juan Perez",
+   "Team": "PIT",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 170,
+   "Age": 28.49
+ },
+ {
+   "Name": "Bengie Molina",
+   "Team": "SF",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 220,
+   "Age": 32.61
+ },
+ {
+   "Name": "Eliezer Alfonzo",
+   "Team": "SF",
+   "Position": "Catcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 223,
+   "Age": 28.06
+ },
+ {
+   "Name": "Lance Niekro",
+   "Team": "SF",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 28.08
+ },
+ {
+   "Name": "Mark Sweeney",
+   "Team": "SF",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 215,
+   "Age": 37.34
+ },
+ {
+   "Name": "Ray Durham",
+   "Team": "SF",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 68,
+   "Body - Weight(lbs)": 196,
+   "Age": 35.25
+ },
+ {
+   "Name": "Kevin Frandsen",
+   "Team": "SF",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 175,
+   "Age": 24.77
+ },
+ {
+   "Name": "Omar Vizquel",
+   "Team": "SF",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 175,
+   "Age": 39.85
+ },
+ {
+   "Name": "Rich Aurilia",
+   "Team": "SF",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 189,
+   "Age": 35.49
+ },
+ {
+   "Name": "Pedro Feliz",
+   "Team": "SF",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 205,
+   "Age": 31.84
+ },
+ {
+   "Name": "Todd Linden",
+   "Team": "SF",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 210,
+   "Age": 26.67
+ },
+ {
+   "Name": "Dave Roberts",
+   "Team": "SF",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 180,
+   "Age": 34.75
+ },
+ {
+   "Name": "Jason Ellison",
+   "Team": "SF",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 180,
+   "Age": 28.91
+ },
+ {
+   "Name": "Randy Winn",
+   "Team": "SF",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 197,
+   "Age": 32.73
+ },
+ {
+   "Name": "Ryan Klesko",
+   "Team": "SF",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 35.72
+ },
+ {
+   "Name": "Barry Bonds",
+   "Team": "SF",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 228,
+   "Age": 42.6
+ },
+ {
+   "Name": "Fred Lewis",
+   "Team": "SF",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 190,
+   "Age": 26.22
+ },
+ {
+   "Name": "Kelyn Acosta",
+   "Team": "SF",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 204,
+   "Age": 21.85
+ },
+ {
+   "Name": "Jonathan Sanchez",
+   "Team": "SF",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 165,
+   "Age": 24.28
+ },
+ {
+   "Name": "Matt Cain",
+   "Team": "SF",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 216,
+   "Age": 22.41
+ },
+ {
+   "Name": "Matt Morris",
+   "Team": "SF",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 220,
+   "Age": 32.56
+ },
+ {
+   "Name": "Russ Ortiz",
+   "Team": "SF",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 208,
+   "Age": 32.74
+ },
+ {
+   "Name": "Noah Lowry",
+   "Team": "SF",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 210,
+   "Age": 26.39
+ },
+ {
+   "Name": "Barry Zito",
+   "Team": "SF",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 215,
+   "Age": 28.8
+ },
+ {
+   "Name": "Vinnie Chulk",
+   "Team": "SF",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 195,
+   "Age": 28.2
+ },
+ {
+   "Name": "Kevin Correia",
+   "Team": "SF",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 26.52
+ },
+ {
+   "Name": "Steve Kline",
+   "Team": "SF",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 215,
+   "Age": 34.52
+ },
+ {
+   "Name": "Armando Benitez",
+   "Team": "SF",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 229,
+   "Age": 34.32
+ },
+ {
+   "Name": "Scott Munter",
+   "Team": "SF",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 240,
+   "Age": 26.98
+ },
+ {
+   "Name": "Jack Taschner",
+   "Team": "SF",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 207,
+   "Age": 28.86
+ },
+ {
+   "Name": "Brian Wilson",
+   "Team": "SF",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 205,
+   "Age": 24.96
+ },
+ {
+   "Name": "Merkin Valdez",
+   "Team": "SF",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 208,
+   "Age": 25.3
+ },
+ {
+   "Name": "Brad Hennessey",
+   "Team": "SF",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 185,
+   "Age": 27.06
+ },
+ {
+   "Name": "Billy Sadler",
+   "Team": "SF",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.44
+ },
+ {
+   "Name": "Pat Misch",
+   "Team": "SF",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 170,
+   "Age": 25.53
+ },
+ {
+   "Name": "Gary Bennett",
+   "Team": "STL",
+   "Position": "Catcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 208,
+   "Age": 34.87
+ },
+ {
+   "Name": "Yadier Molina",
+   "Team": "STL",
+   "Position": "Catcher",
+   "Body - Height(inches)": 71,
+   "Body - Weight(lbs)": 225,
+   "Age": 24.63
+ },
+ {
+   "Name": "John Nelson",
+   "Team": "STL",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 27.99
+ },
+ {
+   "Name": "Albert Pujols",
+   "Team": "STL",
+   "Position": "First Baseman",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 225,
+   "Age": 27.12
+ },
+ {
+   "Name": "Adam Kennedy",
+   "Team": "STL",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 185,
+   "Age": 31.14
+ },
+ {
+   "Name": "Aaron Miles",
+   "Team": "STL",
+   "Position": "Second Baseman",
+   "Body - Height(inches)": 67,
+   "Body - Weight(lbs)": 180,
+   "Age": 30.21
+ },
+ {
+   "Name": "David Eckstein",
+   "Team": "STL",
+   "Position": "Shortstop",
+   "Body - Height(inches)": 67,
+   "Body - Weight(lbs)": 165,
+   "Age": 32.11
+ },
+ {
+   "Name": "Scott Rolen",
+   "Team": "STL",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 240,
+   "Age": 31.91
+ },
+ {
+   "Name": "Scott Spiezio",
+   "Team": "STL",
+   "Position": "Third Baseman",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 220,
+   "Age": 34.44
+ },
+ {
+   "Name": "Jim Edmonds",
+   "Team": "STL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 212,
+   "Age": 36.68
+ },
+ {
+   "Name": "So Taguchi",
+   "Team": "STL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 163,
+   "Age": 37.66
+ },
+ {
+   "Name": "Juan Encarnacion",
+   "Team": "STL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 215,
+   "Age": 30.98
+ },
+ {
+   "Name": "Skip Schumaker",
+   "Team": "STL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 70,
+   "Body - Weight(lbs)": 175,
+   "Age": 27.07
+ },
+ {
+   "Name": "John Rodriguez",
+   "Team": "STL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 205,
+   "Age": 29.11
+ },
+ {
+   "Name": "Chris Duncan",
+   "Team": "STL",
+   "Position": "Outfielder",
+   "Body - Height(inches)": 77,
+   "Body - Weight(lbs)": 210,
+   "Age": 25.82
+ },
+ {
+   "Name": "Adam Wainwright",
+   "Team": "STL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 79,
+   "Body - Weight(lbs)": 205,
+   "Age": 25.5
+ },
+ {
+   "Name": "Mark Mulder",
+   "Team": "STL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 208,
+   "Age": 29.57
+ },
+ {
+   "Name": "Anthony Reyes",
+   "Team": "STL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 215,
+   "Age": 25.37
+ },
+ {
+   "Name": "Ryan Franklin",
+   "Team": "STL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 180,
+   "Age": 33.99
+ },
+ {
+   "Name": "Kip Wells",
+   "Team": "STL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 200,
+   "Age": 29.86
+ },
+ {
+   "Name": "Chris Carpenter",
+   "Team": "STL",
+   "Position": "Starting Pitcher",
+   "Body - Height(inches)": 78,
+   "Body - Weight(lbs)": 230,
+   "Age": 31.84
+ },
+ {
+   "Name": "Russ Springer",
+   "Team": "STL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 76,
+   "Body - Weight(lbs)": 211,
+   "Age": 38.31
+ },
+ {
+   "Name": "Jason Isringhausen",
+   "Team": "STL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 230,
+   "Age": 34.48
+ },
+ {
+   "Name": "Ricardo Rincon",
+   "Team": "STL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 69,
+   "Body - Weight(lbs)": 190,
+   "Age": 36.88
+ },
+ {
+   "Name": "Braden Looper",
+   "Team": "STL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 220,
+   "Age": 32.34
+ },
+ {
+   "Name": "Randy Flores",
+   "Team": "STL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 72,
+   "Body - Weight(lbs)": 180,
+   "Age": 31.58
+ },
+ {
+   "Name": "Josh Hancock",
+   "Team": "STL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 205,
+   "Age": 28.89
+ },
+ {
+   "Name": "Brad Thompson",
+   "Team": "STL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 190,
+   "Age": 25.08
+ },
+ {
+   "Name": "Tyler Johnson",
+   "Team": "STL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 74,
+   "Body - Weight(lbs)": 180,
+   "Age": 25.73
+ },
+ {
+   "Name": "Chris Narveson",
+   "Team": "STL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 205,
+   "Age": 25.19
+ },
+ {
+   "Name": "Randy Keisler",
+   "Team": "STL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 75,
+   "Body - Weight(lbs)": 190,
+   "Age": 31.01
+ },
+ {
+   "Name": "Josh Kinney",
+   "Team": "STL",
+   "Position": "Relief Pitcher",
+   "Body - Height(inches)": 73,
+   "Body - Weight(lbs)": 195,
+   "Age": 27.92
+ }
+]
