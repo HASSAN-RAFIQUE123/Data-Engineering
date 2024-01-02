@@ -1,0 +1,55 @@
+Minimum cost and month of november:
+
+TotalProductCost_November_2017 = 
+CALCULATE(
+    MIN('Sales'[Cost]),
+    FILTER(
+        'Sales',
+        'Sales'[Date] >= DATE(2017, 11, 1)
+        && 'Sales'[Date] <= DATE(2017, 11, 30)
+    )
+)
+/////////////////////////////////////////////////////////////////////////
+Average salary of check republic employee
+
+avgofsalary = CALCULATE(AVERAGE(Employees[Salary (in euros)]),
+
+FILTER
+(Employees,
+Employees[Country ID] =1 || OR
+Employees[Country ID] =2 ||
+Employees[Country ID] =3
+))
+
+////////////////////////////////////////////////////////////////////////////
+avgofsalary = 
+CALCULATE(
+    AVERAGE(Employees[Salary (in euros)]),
+    FILTER(
+        Employees,
+        Employees[Country ID] IN {1, 2, 3}
+    )
+)
+/////////////////////////////////////////////////////////////////////////////
+Total Revenue of john chee
+
+
+Total_Revenu = CALCULATE(SUM(Sales[Revenue]),
+FILTER(Employees,
+Employees[ID]=13))
+
+/////////////////////////////////////////////////////////////////////////////
+
+what are total travel expence of Tomasz maly in first quater (jan-march)2017.
+
+expence = 
+CALCULATE(
+    SUM('Travel expenses'[Value]),
+    FILTER(
+        'Travel expenses',
+        'Travel expenses'[Employee] = 9 &&
+        'Travel expenses'[Attribute] IN {"January","March","February"}
+    )
+)
+
+///////////////////////////////////////////////////////////////////////////////
