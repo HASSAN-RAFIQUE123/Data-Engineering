@@ -20,6 +20,14 @@ Employees[Country ID] =1 || OR
 Employees[Country ID] =2 ||
 Employees[Country ID] =3
 ))
+///////////////////////////////////////////////////////////////////////////////
+evaluate(
+         'Internet Sales'
+)
+ order by [ProductKey]
+//////////////////////////////////////////////////////////////////////////////
+count Number of Days
+COUTDAYS(CALENDAR(DATE(2020,4,1), DATE(2020,6,5)))
 
 ////////////////////////////////////////////////////////////////////////////
 avgofsalary = 
@@ -53,3 +61,10 @@ CALCULATE(
 )
 
 ///////////////////////////////////////////////////////////////////////////////
+DAX DATESBETWEEN function
+The return table contains a column of dates between the start date and the end date.
+Syntax:
+DATESBETWEEN(<Dates>, <StartDate>, <EndState>)
+Example:
+CALCULATE(SUM(Sales([Sales Amount]), DATESBETWEEN(Sales[Date], Date(2020,1,1), Date(2020,3,31)))
+/////////////////////////////////////////////////////////////////////////////////
