@@ -10,6 +10,7 @@ CALCULATE(
     )
 )
 /////////////////////////////////////////////////////////////////////////
+
 Average salary of check republic employee
 
 avgofsalary = CALCULATE(AVERAGE(Employees[Salary (in euros)]),
@@ -68,3 +69,43 @@ DATESBETWEEN(<Dates>, <StartDate>, <EndState>)
 Example:
 CALCULATE(SUM(Sales([Sales Amount]), DATESBETWEEN(Sales[Date], Date(2020,1,1), Date(2020,3,31)))
 /////////////////////////////////////////////////////////////////////////////////
+import pymongo
+
+client = pymongo.MongoClient("mongodb://localhost:27017/")
+database = client["your_database_name"]  # Replace 'your_database_name' with your actual DB name
+
+orders_collection = database["Orders"]
+products_collection = database["Products"]
+
+pipeline = [
+    {
+        "$lookup": {
+            "from": "Products",
+            "localField": "ProductID",  # Field in Orders collection
+            "foreignField": "_id",  # Field in Products collection
+            "as": "product_info"
+        }
+    },
+    {
+        "$unwind": "$product_info"
+    },
+    {
+        "$match": {
+            "product_info": {"$exists": True}  # Filters out non-matching documents
+        }
+    },
+    {
+        "$project": {
+            "_id": 0,
+            "OrderID": "$_id",
+            "Product": "$product_info.Name",
+            "Quantity": "$Quantity"
+            # Add more fields as needed
+        }
+    }
+]
+
+result = list(orders_collection.aggregate(pipeline))
+
+for item in result:
+    print(item)
